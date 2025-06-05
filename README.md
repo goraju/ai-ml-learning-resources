@@ -680,7 +680,7 @@ This section provides guidance for individuals looking to start or advance their
 ## Contributing
 
 Contributions make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-Please read the [CONTRIBUTING.md](CONTRIBUTING.md) (you'll need to create this file) for guidelines on how to contribute effectively.
+Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute effectively.
 
 ---
 
