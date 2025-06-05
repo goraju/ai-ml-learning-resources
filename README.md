@@ -613,12 +613,12 @@ This section provides guidance for individuals looking to start or advance their
 
 *Frameworks and Software Development Kits designed to simplify building complex AI-powered applications, especially those involving LLMs and multi-modal AI.*
 
-- [Vercel AI SDK](https://sdk.vercel.ai/) - An open-source library for building AI-powered user interfaces with React, Svelte, Vue, and more. Integrates with Next.js.  (Type: SDK/Library) (Level: Intermediate/Advanced) (Tags: #AISDK, #FrontendAI, #Chatbots, #StreamingUI, #LLMUI, #Vercel)
+
 - [LangChain](https://www.langchain.com/) - A framework for developing applications powered by language models. Enables chaining of LLM calls, data-augmented generation, and agent-based systems. (Type: Framework/Library) (Level: Intermediate/Advanced) (Tags: #LLMApps, #Agents, #Chaining, #RAG, #Python, #JavaScript)
 - [LlamaIndex](https://www.llamaindex.ai/) - A data framework for LLM applications to ingest, structure, and access private or domain-specific data. Focuses on RAG. (Type: Framework/Library) (Level: Intermediate/Advanced) (Tags: #RAG, #DataIndexing, #LLMData, #ContextAugmentation, #Python)
 - [Haystack by deepset](https://haystack.deepset.ai/) - Open-source framework for building custom NLP applications, including question answering, semantic search, and document understanding. (Type: Framework/Library) (Level: Intermediate/Advanced) (Tags: #NLPFramework, #SemanticSearch, #QuestionAnswering, #DocumentProcessing, #Python)
 - [Semantic Kernel by Microsoft](https://learn.microsoft.com/en-us/semantic-kernel/overview/) - An SDK that lets you easily build agents that can call your existing code. Integrates LLMs with conventional programming languages. (Type: SDK/Library) (Level: Intermediate/Advanced) (Tags: #LLMAgents, #AIOrchestration, #MicrosoftAI, #CSharp, #Python)
-
+- [Vercel AI SDK](https://sdk.vercel.ai/) - An open-source library for building AI-powered user interfaces with React, Svelte, Vue, and more. Integrates with Next.js.  (Type: SDK/Library) (Level: Intermediate/Advanced) (Tags: #AISDK, #FrontendAI, #Chatbots, #StreamingUI, #LLMUI, #Vercel)
 
 ### 2. AI-Powered Developer Productivity Tools
 
