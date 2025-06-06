@@ -93,6 +93,12 @@ Kindly adhere to this format for new resource submissions:
     *   [3. Model Optimization for Cost Efficiency](#3-model-optimization-for-cost-efficiency)
     *   [4. Cost Monitoring & Reporting](#4-cost-monitoring--reporting)
     *   [5. ROI Analysis for AI Projects](#5-roi-analysis-for-ai-projects)
+ * [X. Ideation Strategies and Research Methods for AI, ML, Applied ML, and LLM Applications](README.md#x-ideation-strategies-and-research-methods-for-ai-ml-applied-ml-and-llm-applications)
+     * [1. Ideation Strategies](README.md#1-ideation-strategies)
+     * [2. Research Methods](README.md#2-research-methods)
+     * [3. Applied ML and LLM Experimentation](README.md#3-applied-ml-and-llm-experimentation)
+     * [4. Evaluation and Validation](README.md#4-evaluation-and-validation)
+     * [5. Further Reading and Resources](README.md#5-further-reading-and-resources)
 *   [Contributing](#contributing)
 *   [License](#license)
 
