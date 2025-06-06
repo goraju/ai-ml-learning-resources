@@ -87,6 +87,12 @@ Kindly adhere to this format for new resource submissions:
       *    [4. Model Optimization & Compression Toolkits](#4-model-optimization--compression-toolkits)
       *    [5. Vector Databases & Semantic Search](#5-vector-databases--semantic-search)
       *    [6. Advanced Experiment Management & Orchestration](#6-advanced-experiment-management--orchestration)
+*   [IX. FinOps for AI & ML](#ix-finops-for-ai--ml)
+    *   [1. Cost Optimization Strategies](#1-cost-optimization-strategies)
+    *   [2. Cloud Provider Cost Management](#2-cloud-provider-cost-management)
+    *   [3. Model Optimization for Cost Efficiency](#3-model-optimization-for-cost-efficiency)
+    *   [4. Cost Monitoring & Reporting](#4-cost-monitoring--reporting)
+    *   [5. ROI Analysis for AI Projects](#5-roi-analysis-for-ai-projects)
 *   [Contributing](#contributing)
 *   [License](#license)
 
