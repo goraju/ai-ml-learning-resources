@@ -20,7 +20,7 @@ Kindly adhere to this format for new resource submissions:
 
 *   [I. Foundational Pillars](#i-foundational-pillars)
 *   [II. Specialized AI Domains](#ii-specialized-ai-domains)
-*   [III. Applied AI/ML](#iii-applied-ai--ml)
+*   [III. Applied AI/ML](#iii-applied-aiml)
 *   [IV. System Design, Operations & Infrastructure](#iv-system-design-operations--infrastructure)
 *   [V. Ethics, Security, Future Trends & Research](#v-ethics-security-future-trends--research)
 *   [VI. Learning Strategies & Career Development in AI](#vi-learning-strategies--career-development-in-ai)
