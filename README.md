@@ -137,6 +137,8 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [TorchVision Tutorial](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html) <sub>[Tutorial, Intermediate]</sub>
 - [OpenCV Python Tutorials](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html) <sub>[Documentation, Beginner/Intermediate]</sub>
 
+
+
 ### 4. Reinforcement Learning (RL)
 *Theory and practice of training agents through interaction with environments, from basic concepts to advanced algorithms.*
 
@@ -161,6 +163,43 @@ A meticulously curated and continuously updated list of resources for mastering 
 **Applications & Implementations:**
 - [Deep Graph Library (DGL) Tutorials](https://docs.dgl.ai/tutorials/index.html) <sub>[Tutorial, Intermediate]</sub>
 - [Graph Neural Networks in Practice](https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a) <sub>[Article Series, Intermediate]</sub>
+
+### 6. Agentic AI
+
+*Agentic AI focuses on autonomous agents capable of reasoning, planning, and acting independently. This area covers agent architectures, planning, multi-agent systems, and practical tools.*
+
+#### Core Concepts \& Architectures
+
+- [Artificial Intelligence: A Modern Approach (Russell \& Norvig) – Agent Chapters](https://aima.cs.berkeley.edu/) <sub>[Book, Intermediate/Advanced]</sub>
+- [Agents and Multi-Agent Systems: Foundations, Theory, and Applications by Gerhard Weiss](https://www.springer.com/gp/book/9783662448744) <sub>[Book, Advanced]</sub>
+- [MIT 6.034 Artificial Intelligence – Agents and Planning](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/) <sub>[Course, Intermediate]</sub>
+
+
+#### Planning \& Reasoning
+
+- [Planning in Artificial Intelligence by Ghallab, Nau, Traverso](https://mitpress.mit.edu/9780262042871/planning-in-artificial-intelligence/) <sub>[Book, Advanced]</sub>
+- [Stanford CS221: Artificial Intelligence – Planning and Decision Making](https://web.stanford.edu/class/cs221/) <sub>[Course, Advanced]</sub>
+- [OpenAI’s Research on Agentic AI](https://openai.com/research) <sub>[Research Blog, Advanced]</sub>
+
+
+#### Multi-Agent Systems
+
+- [Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations by Shoham \& Leyton-Brown](https://www.masfoundations.org/) <sub>[Book, Advanced]</sub>
+- [Multi-Agent Reinforcement Learning: A Survey (Paper)](https://arxiv.org/abs/1812.11794) <sub>[Survey Paper, Advanced]</sub>
+- [OpenAI Multi-Agent Research](https://openai.com/research/multi-agent) <sub>[Research Blog, Advanced]</sub>
+
+
+#### Practical Tools \& Libraries
+
+- [PettingZoo: Multi-Agent Reinforcement Learning Environments](https://www.pettingzoo.ml/) <sub>[Library, Intermediate/Advanced]</sub>
+- [Ray RLlib: Scalable Reinforcement Learning](https://docs.ray.io/en/latest/rllib/index.html) <sub>[Library, Advanced]</sub>
+
+
+#### Further Reading \& Community
+
+- [AAMAS: International Conference on Autonomous Agents and Multiagent Systems](https://aamas2024.conference.auckland.ac.nz/) <sub>[Conference, Advanced]</sub>
+- [Agentic AI Community on Reddit](https://www.reddit.com/r/ArtificialInteligence/) <sub>[Community, All Levels]</sub>
+- [Agentic AI Discord (search for active communities)](https://discord.com/invite/artificialintelligence) <sub>[Community, All Levels]</sub>
 
 ---
 
