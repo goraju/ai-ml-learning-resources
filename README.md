@@ -1,4 +1,4 @@
-# Awesome AI, ML, DL, LLM, MLOps, AI Security Learning Resources 🚀🛡️✨
+# Awesome AI, ML, DL, LLM, MLOps, AI Security Learning Resources 🚀
 
 A meticulously curated and continuously updated list of resources for mastering Artificial Intelligence, Machine Learning, Deep Learning, Large Language Models (LLMs), MLOps/LLMOps, and AI Security.
 
