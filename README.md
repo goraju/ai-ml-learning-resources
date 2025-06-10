@@ -8,6 +8,7 @@ A meticulously curated and continuously updated list of resources for mastering 
 * **Discover** resources: each entry provides a direct link with type and difficulty information.
 * **Contribute:** Your insights and additions are invaluable. Please see the [Contributing](#contributing) section.
 
+
 ## Table of Contents
 
 - [AI & Machine Learning Foundations](#ai--machine-learning-foundations-)
@@ -15,14 +16,12 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [Advanced AI Domains & Architectures](#advanced-ai-domains--architectures-)
 - [AI/ML System Design & MLOps](#aiml-system-design--mlops-)
 - [AI & ML Applications Across Industries](#ai--ml-applications-across-industries-)
-- [Ethics in AI](#ethics-in-ai)
-- [AI Security & Security for AI](#ai-security--security-for-ai-)
+- [Ethics, Cybersecurity & AI](#ethics-cybersecurity--ai-)
 - [AI Research Methodologies & Innovation](#ai-research-methodologies--innovation-)
 - [Emerging Trends in AI](#emerging-trends-in-ai-)
 - [AI Learning Paths & Career Development](#ai-learning-paths--career-development-)
 - [AI Community & Professional Resources](#ai-community--professional-resources-)
 - [AI/ML Financial Operations (FinOps)](#aiml-financial-operations-finops-)
-
 
 ---
 
