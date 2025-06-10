@@ -481,136 +481,143 @@ This section provides guidance for individuals looking to start or advance their
  ---
 
 ## VIII. Advanced Tools, Utilities & Libraries
-
-*Specialized tools, SDKs, and libraries for accelerating AI application development, enhancing productivity, and tackling advanced AI tasks.*
+*Last Updated: 2025-06-10 18:26:32 UTC*
+*Maintained by: @goraju*
 
 ### 1. AI Application Development Frameworks & SDKs
+*Frameworks and SDKs designed to simplify building complex AI-powered applications.*
 
-*Frameworks and Software Development Kits designed to simplify building complex AI-powered applications, especially those involving LLMs and multi-modal AI.*
-
-
-- [LangChain](https://www.langchain.com/) - A framework for developing applications powered by language models. Enables chaining of LLM calls, data-augmented generation, and agent-based systems. (Type: Framework/Library) (Level: Intermediate/Advanced) (Tags: #LLMApps, #Agents, #Chaining, #RAG, #Python, #JavaScript)
-- [LlamaIndex](https://www.llamaindex.ai/) - A data framework for LLM applications to ingest, structure, and access private or domain-specific data. Focuses on RAG. (Type: Framework/Library) (Level: Intermediate/Advanced) (Tags: #RAG, #DataIndexing, #LLMData, #ContextAugmentation, #Python)
-- [Haystack by deepset](https://haystack.deepset.ai/) - Open-source framework for building custom NLP applications, including question answering, semantic search, and document understanding. (Type: Framework/Library) (Level: Intermediate/Advanced) (Tags: #NLPFramework, #SemanticSearch, #QuestionAnswering, #DocumentProcessing, #Python)
-- [Semantic Kernel by Microsoft](https://learn.microsoft.com/en-us/semantic-kernel/overview/) - An SDK that lets you easily build agents that can call your existing code. Integrates LLMs with conventional programming languages. (Type: SDK/Library) (Level: Intermediate/Advanced) (Tags: #LLMAgents, #AIOrchestration, #MicrosoftAI, #CSharp, #Python)
-- [Vercel AI SDK](https://sdk.vercel.ai/) - An open-source library for building AI-powered user interfaces with React, Svelte, Vue, and more. Integrates with Next.js.  (Type: SDK/Library) (Level: Intermediate/Advanced) (Tags: #AISDK, #FrontendAI, #Chatbots, #StreamingUI, #LLMUI, #Vercel)
+- [LangChain](https://www.langchain.com/) <sub>[Framework/Library, Intermediate/Advanced]</sub>
+- [LlamaIndex](https://www.llamaindex.ai/) <sub>[Framework/Library, Intermediate/Advanced]</sub>
+- [Haystack by deepset](https://haystack.deepset.ai/) <sub>[Framework/Library, Intermediate/Advanced]</sub>
+- [Semantic Kernel by Microsoft](https://learn.microsoft.com/en-us/semantic-kernel/overview/) <sub>[SDK/Library, Intermediate/Advanced]</sub>
+- [Vercel AI SDK](https://sdk.vercel.ai/) <sub>[SDK/Library, Intermediate/Advanced]</sub>
 
 ### 2. AI-Powered Developer Productivity Tools
-
 *Tools that leverage AI to assist software developers in coding, debugging, testing, and other development tasks.*
 
-- [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer that suggests code and entire functions in real-time, right from your editor. (Type: Tool/IDEPlugin) (Level: All) (Tags: #AICodingAssistant, #CodeGeneration, #DeveloperTool, #Productivity)
-- [Cursor](https://cursor.sh/) - An AI-first code editor designed for pair-programming with AI. Built for speed and deep integration with AI models. (Type: IDE/Tool) (Level: All) (Tags: #AIIDE, #CodeEditing, #AIChat, #Refactoring, #Debugging)
-- [Tabnine](https://www.tabnine.com/) - AI code completion assistant that learns your coding patterns and provides personalized suggestions. Supports multiple languages and IDEs. (Type: Tool/IDEPlugin) (Level: All) (Tags: #CodeCompletion, #AIAutocompletion, #DeveloperProductivity)
-- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI coding companion from AWS that generates code suggestions based on natural language comments and existing code. (Type: Tool/IDEPlugin) (Level: All) (Tags: #AWS, #AICoding, #CodeGeneration, #Productivity)
-- [Sourcegraph Cody](https://sourcegraph.com/cody) - AI coding assistant that understands your entire codebase to help write, fix, and maintain code. (Type: Tool/Platform) (Level: Intermediate/Advanced) (Tags: #CodebaseUnderstanding, #AICoding, #EnterpriseAI)
-
+- [GitHub Copilot](https://github.com/features/copilot) <sub>[Tool/IDEPlugin, All]</sub>
+- [Cursor](https://cursor.sh/) <sub>[IDE/Tool, All]</sub>
+- [Tabnine](https://www.tabnine.com/) <sub>[Tool/IDEPlugin, All]</sub>
+- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) <sub>[Tool/IDEPlugin, All]</sub>
+- [Sourcegraph Cody](https://sourcegraph.com/cody) <sub>[Tool/Platform, Intermediate/Advanced]</sub>
 
 ### 3. Data Augmentation & Synthetic Data Generation Tools
+*Tools and libraries for increasing dataset size and diversity through augmentation techniques.*
 
-*Tools and libraries for increasing dataset size and diversity through augmentation techniques or generating artificial data for training AI models.*
-
-- [Albumentations](https://albumentations.ai/) - A fast and flexible library for image augmentation. Supports a wide variety of augmentation techniques. (Type: Library) (Level: Intermediate/Advanced) (Tags: #ImageAugmentation, #ComputerVision, #DataPreprocessing, #Python)
-- [NVIDIA Omniverse Replicator](https://developer.nvidia.com/omniverse/replicator) - A framework for generating physically accurate synthetic data for training AI models, particularly for computer vision. (Type: SDK/Platform) (Level: Advanced) (Tags: #SyntheticData, #DataGeneration, #ComputerVision, #Simulation, #NVIDIA)
-- [Unity Perception Package](https://unity.com/products/perception) - Tools within the Unity game engine for generating synthetic datasets for computer vision tasks. (Type: Tool/EnginePlugin) (Level: Intermediate/Advanced) (Tags: #SyntheticDataGeneration, #Unity3D, #ComputerVision, #Simulation)
-- [Snorkel AI](https://snorkel.ai/) - A platform for programmatic data labeling and weak supervision, enabling the creation of training data more efficiently. (Type: Platform/Framework) (Level: Advanced) (Tags: #ProgrammaticLabeling, #WeakSupervision, #DataLabeling, #TrainingData)
-- [ Gretel.ai](https://gretel.ai/) - Platform for generating synthetic data that maintains statistical properties and privacy of the original data. (Type: Platform/Tool) (Level: Intermediate/Advanced) (Tags: #SyntheticData, #PrivacyPreservingAI, #DataGeneration)
-
+- [Albumentations](https://albumentations.ai/) <sub>[Library, Intermediate/Advanced]</sub>
+- [NVIDIA Omniverse Replicator](https://developer.nvidia.com/omniverse/replicator) <sub>[SDK/Platform, Advanced]</sub>
+- [Unity Perception Package](https://unity.com/products/perception) <sub>[Tool/EnginePlugin, Intermediate/Advanced]</sub>
+- [Snorkel AI](https://snorkel.ai/) <sub>[Platform/Framework, Advanced]</sub>
+- [Gretel.ai](https://gretel.ai/) <sub>[Platform/Tool, Intermediate/Advanced]</sub>
 
 ### 4. Model Optimization & Compression Toolkits
-
 *Tools for reducing model size, inference latency, and computational cost while preserving accuracy.*
 
-- [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt) - A platform for high-performance deep learning inference. Includes an optimizer and runtime for NVIDIA GPUs. (Type: SDK/Tool) (Level: Advanced) (Tags: #ModelOptimization, #InferenceAcceleration, #NVIDIAGPU, #Quantization, #Pruning)
-- [Intel OpenVINO Toolkit](https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html) - Open Visual Inference & Neural network Optimization toolkit for optimizing and deploying AI inference on Intel hardware. (Type: SDK/Tool) (Level: Advanced) (Tags: #ModelDeployment, #IntelHardware, #InferenceOptimization, #EdgeAI)
-- [ONNX Runtime](https://onnxruntime.ai/) - A cross-platform inferencing and training accelerator for ML models. Supports models from PyTorch, TensorFlow, and more. (Type: Runtime/Library) (Level: Intermediate/Advanced) (Tags: #ONNX, #InferenceEngine, #CrossPlatformML, #ModelDeployment)
-- [TensorFlow Lite Model Optimization Toolkit](https://www.tensorflow.org/lite/performance/model_optimization) - Tools for optimizing TensorFlow models for deployment on mobile, microcontrollers, and edge devices. (Type: Toolkit/Library) (Level: Intermediate/Advanced) (Tags: #TensorFlowLite, #EdgeAI, #MobileML, #Quantization, #Pruning)
-- [PyTorch Mobile](https://pytorch.org/mobile/home/) - Tools and libraries for deploying PyTorch models on mobile devices (iOS and Android). (Type: Library/Framework) (Level: Intermediate/Advanced) (Tags: #PyTorch, #MobileDeployment, #EdgeAI, #iOS, #Android)
-- [Optuna](https://optuna.org/) - An automatic hyperparameter optimization framework, particularly designed for machine learning. (Type: Library) (Level: Intermediate/Advanced) (Tags: #HyperparameterTuning, #Optimization, #AutoML, #Python)
-
+- [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt) <sub>[SDK/Tool, Advanced]</sub>
+- [Intel OpenVINO Toolkit](https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html) <sub>[SDK/Tool, Advanced]</sub>
+- [ONNX Runtime](https://onnxruntime.ai/) <sub>[Runtime/Library, Intermediate/Advanced]</sub>
+- [TensorFlow Lite Model Optimization Toolkit](https://www.tensorflow.org/lite/performance/model_optimization) <sub>[Toolkit/Library, Intermediate/Advanced]</sub>
+- [PyTorch Mobile](https://pytorch.org/mobile/home/) <sub>[Library/Framework, Intermediate/Advanced]</sub>
+- [Optuna](https://optuna.org/) <sub>[Library, Intermediate/Advanced]</sub>
 
 ### 5. Vector Databases & Semantic Search
+*Databases and libraries specialized in storing, indexing, and querying high-dimensional vector embeddings.*
 
-*Databases and libraries specialized in storing, indexing, and querying high-dimensional vector embeddings for tasks like semantic search, recommendation, and RAG.*
-
-- [Pinecone](https://www.pinecone.io/) - A managed vector database service for building high-performance vector search applications. (Type: Platform/Service) (Level: Intermediate/Advanced) (Tags: #VectorDB, #SemanticSearch, #SimilaritySearch, #ManagedService, #RAG)
-- [Weaviate](https://weaviate.io/) - An open-source vector database that stores both objects and vector embeddings, allowing for combined scalar and vector searches. (Type: Database/Tool) (Level: Intermediate/Advanced) (Tags: #OpenSource, #VectorDatabase, #GraphQL, #SemanticSearch, #HybridSearch)
-- [Milvus](https://milvus.io/) - An open-source vector database built for AI applications, supporting various index types and similarity metrics. (Type: Database/Tool) (Level: Intermediate/Advanced) (Tags: #OpenSource, #VectorDB, #ScalableSearch, #AIApplications)
-- [FAISS (Facebook AI Similarity Search)](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors. Developed by Facebook AI. (Type: Library) (Level: Advanced) (Tags: #SimilaritySearch, #VectorIndexing, #Clustering, #FacebookAI, #Python, #C++)
-- [ScaNN (Scalable Nearest Neighbors) by Google](https://github.com/google-research/google-research/tree/master/scann) - A library for efficient vector similarity search at scale. (Type: Library) (Level: Advanced) (Tags: #VectorSearch, #GoogleResearch, #Scalability, #ApproximateNearestNeighbor)
-- [ChromaDB](https://www.trychroma.com/) - An open-source embedding database designed to make it easy to build LLM apps by making knowledge, facts, and skills pluggable. (Type: Database/Tool) (Level: Intermediate) (Tags: #Embeddings, #VectorStore, #LLMApps, #OpenSource, #Python)
-
+- [Pinecone](https://www.pinecone.io/) <sub>[Platform/Service, Intermediate/Advanced]</sub>
+- [Weaviate](https://weaviate.io/) <sub>[Database/Tool, Intermediate/Advanced]</sub>
+- [Milvus](https://milvus.io/) <sub>[Database/Tool, Intermediate/Advanced]</sub>
+- [FAISS](https://github.com/facebookresearch/faiss) <sub>[Library, Advanced]</sub>
+- [ScaNN](https://github.com/google-research/google-research/tree/master/scann) <sub>[Library, Advanced]</sub>
+- [ChromaDB](https://www.trychroma.com/) <sub>[Database/Tool, Intermediate]</sub>
 
 ### 6. Advanced Experiment Management & Orchestration
+*Tools for managing complex ML workflows, reproducibility, and collaboration at scale.*
 
-*Tools that go beyond basic tracking, offering more sophisticated capabilities for managing complex ML workflows, reproducibility, and collaboration at scale.*
+- [ClearML](https://clear.ml/) <sub>[Platform/Tool, Intermediate/Advanced]</sub>
+- [Pachyderm](https://www.pachyderm.com/) <sub>[Platform/Tool, Advanced]</sub>
+- [Kubeflow](https://www.kubeflow.org/) <sub>[Platform/Framework, Advanced]</sub>
+- [Flyte](https://flyte.org/) <sub>[Platform/Tool, Advanced]</sub>
 
-- [ClearML](https://clear.ml/) - Open-source MLOps platform for experiment tracking, data versioning, model management, and orchestration. (Type: Platform/Tool) (Level: Intermediate/Advanced) (Tags: #MLOpsPlatform, #ExperimentTracking, #Orchestration, #Reproducibility, #OpenSource)
-- [Pachyderm](https://www.pachyderm.com/) - An open-source data science platform that provides data versioning, pipelining, and lineage for MLOps. Built on Kubernetes. (Type: Platform/Tool) (Level: Advanced) (Tags: #DataVersioning, #MLPipelines, #DataLineage, #Kubernetes, #ReproducibleML)
-- [Kubeflow](https://www.kubeflow.org/) - An open-source ML toolkit for Kubernetes, providing components for various stages of the ML lifecycle, including pipelining and serving. (Type: Platform/Framework) (Level: Advanced) (Tags: #Kubernetes, #MLOps, #MLWorkflow, #Pipelines, #Serving)
-- [Flyte](https://flyte.org/) - An open-source, container-native, structured programming and distributed processing platform for large-scale ML and data workflows. (Type: Platform/Tool) (Level: Advanced) (Tags: #WorkflowOrchestration, #DataPipelines, #MLPipelines, #Scalability, #Reproducibility)
+---
 
-### IX. FinOps for AI & ML
-*Resources and strategies for optimizing costs and maximizing value in AI/ML operations.*
+## IX. FinOps for AI & ML
 
-#### 1. Cost Optimization Strategies
-- **Infrastructure & Resource Management:**
-    - [MLOps Cost Optimization Guide](link_to_guide) - Best practices for managing compute resources in ML pipelines. (Type: Guide) (Level: Intermediate) (Tags: #CostOptimization, #MLOps)
-    - [GPU Instance Selection & Scheduling](link_to_article) - Strategies for optimal GPU utilization and cost management. (Type: Article) (Level: Intermediate) (Tags: #GPUOptimization, #CloudCosts)
-    - [Serverless ML Deployment Patterns](link_to_patterns) - Cost-effective patterns for deploying ML models. (Type: Article) (Level: Advanced) (Tags: #Serverless, #MLDeployment)
+### 1. Cost Optimization Strategies
+*Best practices and strategies for managing infrastructure and resource costs.*
 
-#### 2. Cloud Provider Cost Management
-- **AWS:**
-    - [AWS Cost Explorer for ML Workloads](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/) - Tools and best practices for tracking ML costs on AWS. (Type: Tool/Documentation) (Tags: #AWSCosts, #CloudML)
-    - [SageMaker Cost Optimization](https://aws.amazon.com/sagemaker/pricing/) - Guidelines for optimizing SageMaker usage costs. (Type: Documentation) (Tags: #SageMaker, #MLCosts)
-- **Azure:**
-    - [Azure ML Cost Management](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-manage-optimize-cost) - Cost optimization for Azure ML services. (Type: Documentation) (Tags: #AzureML, #CostManagement)
-- **Google Cloud:**
-    - [Vertex AI Pricing Best Practices](https://cloud.google.com/vertex-ai/pricing) - Cost optimization for GCP's ML platform. (Type: Documentation) (Tags: #VertexAI, #GCPCosts)
+**Infrastructure & Resource Management:**
+- [MLOps Cost Optimization Guide](link_to_guide) <sub>[Guide, Intermediate]</sub>
+- [GPU Instance Selection & Scheduling](link_to_article) <sub>[Article, Intermediate]</sub>
+- [Serverless ML Deployment Patterns](link_to_patterns) <sub>[Article, Advanced]</sub>
 
-#### 3. Model Optimization for Cost Efficiency
-- **Training Optimization:**
-    - [Efficient Training Strategies](link_to_strategies) - Techniques for reducing training costs without compromising model quality. (Type: Guide) (Level: Advanced) (Tags: #TrainingOptimization, #Efficiency)
-    - [Distributed Training Cost Analysis](link_to_analysis) - Cost-benefit analysis of distributed training approaches. (Type: Article) (Level: Advanced) (Tags: #DistributedTraining, #ROI)
-- **Inference Optimization:**
-    - [Model Compression Techniques](link_to_techniques) - Methods for reducing model size and inference costs. (Type: Guide) (Level: Advanced) (Tags: #ModelCompression, #InferenceCosts)
-    - [Batch Processing Strategies](link_to_batch_strategies) - Optimizing batch inference for cost efficiency. (Type: Article) (Level: Intermediate) (Tags: #BatchProcessing, #Optimization)
+### 2. Cloud Provider Cost Management
+*Provider-specific tools and guidelines for managing AI/ML costs.*
 
-#### 4. Cost Monitoring & Reporting
-- **Tools & Frameworks:**
-    - [ML Cost Monitoring Dashboards](link_to_dashboards) - Templates and tools for tracking ML-related expenses. (Type: Tool) (Level: Intermediate) (Tags: #Monitoring, #CostTracking)
-    - [Cloud Cost Attribution for ML](link_to_attribution) - Frameworks for attributing costs to specific ML projects and teams. (Type: Guide) (Level: Intermediate) (Tags: #CostAttribution, #MLAccountability)
+**AWS:**
+- [AWS Cost Explorer for ML Workloads](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/) <sub>[Tool/Documentation, Intermediate]</sub>
+- [SageMaker Cost Optimization](https://aws.amazon.com/sagemaker/pricing/) <sub>[Documentation, Intermediate]</sub>
 
-#### 5. ROI Analysis for AI Projects
-- **Measurement & Metrics:**
-    - [AI Project ROI Framework](link_to_framework) - Framework for measuring return on AI investments. (Type: Guide) (Level: Advanced) (Tags: #AIROI, #MetricsFramework)
-    - [Cost-Benefit Analysis Templates](link_to_templates) - Templates for evaluating AI project costs and benefits. (Type: Template) (Level: Intermediate) (Tags: #CostBenefit, #ProjectEvaluation)
-- **Case Studies:**
-    - [AI Cost Optimization Success Stories](link_to_cases) - Real-world examples of successful AI cost optimization. (Type: Case Studies) (Level: Intermediate) (Tags: #SuccessStories, #ROI)
+**Azure:**
+- [Azure ML Cost Management](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-manage-optimize-cost) <sub>[Documentation, Intermediate]</sub>
 
-### X. Ideation Strategies and Research Methods for AI, ML, Applied ML, and LLM Applications
+**Google Cloud:**
+- [Vertex AI Pricing Best Practices](https://cloud.google.com/vertex-ai/pricing) <sub>[Documentation, Intermediate]</sub>
 
-*Explore strategies and methodologies to generate ideas, structure research, and develop applications in AI, Machine Learning, Applied Machine Learning, and Large Language Models (LLMs):*
+### 3. Model Optimization for Cost Efficiency
+*Techniques for optimizing model training and inference costs.*
 
-#### 1. Ideation Strategies
+**Training Optimization:**
+- [Efficient Training Strategies](link_to_strategies) <sub>[Guide, Advanced]</sub>
+- [Distributed Training Cost Analysis](link_to_analysis) <sub>[Article, Advanced]</sub>
 
-- [AI Project Ideation Guide (GitHub)](https://github.com/ashishpatel26/AI-Project-Ideas)
-- [How to Find Machine Learning Project Ideas](https://towardsdatascience.com/how-to-find-machine-learning-project-ideas-3b3e0d4e3c88)
-- [Stanford CS230: Project Ideation](https://cs230.stanford.edu/project_ideation/)
+**Inference Optimization:**
+- [Model Compression Techniques](link_to_techniques) <sub>[Guide, Advanced]</sub>
+- [Batch Processing Strategies](link_to_batch_strategies) <sub>[Article, Intermediate]</sub>
 
-#### 2. Research Methods
+### 4. Cost Monitoring & Reporting
+*Tools and frameworks for tracking and analyzing ML-related expenses.*
 
-- [A Guide to Research Methods in Artificial Intelligence](https://www.aaai.org/ojs/index.php/aimagazine/article/view/1814/1712)
-- [Research Methods in Machine Learning (arXiv)](https://arxiv.org/abs/2007.01663)
-- [How to Read a Paper (S. Keshav)](https://www.cs.toronto.edu/~ukemri/docs/HowToReadPaper.pdf)
-- [Designing and Reporting Experiments in AI (Nature Guide)](https://www.nature.com/articles/d41586-020-03436-4)
+**Tools & Frameworks:**
+- [ML Cost Monitoring Dashboards](link_to_dashboards) <sub>[Tool, Intermediate]</sub>
+- [Cloud Cost Attribution for ML](link_to_attribution) <sub>[Guide, Intermediate]</sub>
 
-#### 3. Applied ML and LLM Application Resources
+### 5. ROI Analysis for AI Projects
+*Frameworks and templates for measuring AI investment returns.*
 
-- [Applied Machine Learning Process (Google Developers)](https://developers.google.com/machine-learning/guides/rules-of-ml)
-- [Best Practices for Applied Machine Learning (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/best-practices-for-applied-machine-learning/)
-- [LLM Application Patterns (Prompt Engineering Guide)](https://www.promptingguide.ai/)
-- [LLM University: Research & Applications](https://llm.university/)
+**Measurement & Metrics:**
+- [AI Project ROI Framework](link_to_framework) <sub>[Guide, Advanced]</sub>
+- [Cost-Benefit Analysis Templates](link_to_templates) <sub>[Template, Intermediate]</sub>
+
+**Case Studies:**
+- [AI Cost Optimization Success Stories](link_to_cases) <sub>[Case Studies, Intermediate]</sub>
+
+---
+
+## X. Ideation Strategies and Research Methods
+
+### 1. Ideation Strategies
+*Tools and guides for generating AI and ML project ideas.*
+
+- [AI Project Ideation Guide](https://github.com/ashishpatel26/AI-Project-Ideas) <sub>[Repository, Beginner/Intermediate]</sub>
+- [How to Find Machine Learning Project Ideas](https://towardsdatascience.com/how-to-find-machine-learning-project-ideas-3b3e0d4e3c88) <sub>[Article, Beginner]</sub>
+- [Stanford CS230: Project Ideation](https://cs230.stanford.edu/project_ideation/) <sub>[Course Material, Intermediate]</sub>
+
+### 2. Research Methods
+*Guidelines and frameworks for conducting AI/ML research.*
+
+- [A Guide to Research Methods in Artificial Intelligence](https://www.aaai.org/ojs/index.php/aimagazine/article/view/1814/1712) <sub>[Article, Advanced]</sub>
+- [Research Methods in Machine Learning](https://arxiv.org/abs/2007.01663) <sub>[Paper, Advanced]</sub>
+- [How to Read a Paper](https://www.cs.toronto.edu/~ukemri/docs/HowToReadPaper.pdf) <sub>[Guide, Intermediate]</sub>
+- [Designing and Reporting Experiments in AI](https://www.nature.com/articles/d41586-020-03436-4) <sub>[Guide, Advanced]</sub>
+
+### 3. Applied ML and LLM Application Resources
+*Practical resources for implementing ML and LLM applications.*
+
+- [Applied Machine Learning Process](https://developers.google.com/machine-learning/guides/rules-of-ml) <sub>[Documentation, Intermediate/Advanced]</sub>
+- [Best Practices for Applied Machine Learning](https://www.deeplearning.ai/short-courses/best-practices-for-applied-machine-learning/) <sub>[Course, Intermediate]</sub>
+- [LLM Application Patterns](https://www.promptingguide.ai/) <sub>[Guide, Intermediate]</sub>
+- [LLM University: Research & Applications](https://llm.university/) <sub>[Educational Resource, Intermediate/Advanced]</sub>
 
 
 ---
