@@ -94,6 +94,14 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [Hugging Face Course](https://huggingface.co/course/chapter1/1) <sub>[Course, Intermediate/Advanced]</sub>
 - [Transformers Documentation](https://huggingface.co/docs/transformers/index) <sub>[Documentation, Advanced]</sub>
 - [spaCy Course](https://course.spacy.io/) <sub>[Course, Intermediate]</sub>
+
+**6. Data Engineering \& Data Management for AI/ML**
+*Preparing, cleaning, storing, and managing data pipelines and datasets for AI/ML workflows.*
+
+- Data preprocessing, feature engineering, and dataset versioning
+- Data lakes, warehouses, and data governance
+- Tools: [Apache Airflow](https://airflow.apache.org/), [DVC](https://dvc.org/), [Great Expectations](https://greatexpectations.io/)
+  
 ---
 
 ## II. Specialized AI Domains
@@ -136,8 +144,6 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [fastai Practical Deep Learning for Coders](https://course.fast.ai/) <sub>[Course, Intermediate]</sub>
 - [TorchVision Tutorial](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html) <sub>[Tutorial, Intermediate]</sub>
 - [OpenCV Python Tutorials](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html) <sub>[Documentation, Beginner/Intermediate]</sub>
-
-
 
 ### 4. Reinforcement Learning (RL)
 *Theory and practice of training agents through interaction with environments, from basic concepts to advanced algorithms.*
@@ -201,6 +207,20 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [Agentic AI Community on Reddit](https://www.reddit.com/r/ArtificialInteligence/) <sub>[Community, All Levels]</sub>
 - [Agentic AI Discord (search for active communities)](https://discord.com/invite/artificialintelligence) <sub>[Community, All Levels]</sub>
 
+**8. Multimodal AI**
+*AI models and systems that process and reason over multiple data types (text, image, audio, video).*
+
+- [CLIP: Connecting Text and Images](https://openai.com/research/clip)
+- [Multimodal Transformers](https://arxiv.org/abs/2107.07502)
+- [Stanford CS330: Multi-Modal Machine Learning](https://cs330.stanford.edu/)
+
+**9. Causal Inference \& Causal ML**
+*Learning and reasoning about cause-effect relationships from data.*
+
+- [The Book of Why by Judea Pearl](https://www.basicbooks.com/titles/judea-pearl/the-book-of-why/9780465097616/)
+- [Elements of Causal Inference](https://mitpress.mit.edu/9780262037310/elements-of-causal-inference/)
+- [DoWhy Library](https://microsoft.github.io/dowhy/)
+
 ---
 
 ## III. Applied AI/ML
@@ -229,6 +249,12 @@ A meticulously curated and continuously updated list of resources for mastering 
 **AI in Manufacturing (Industry 4.0):**
 - [AI in Manufacturing: Use Cases, Benefits, and Examples](https://www.ibm.com/topics/ai-manufacturing) <sub>[Article, Beginner/Intermediate]</sub>
 
+**3. AI/ML for Social Good \& Impact**
+*Resources and case studies on using AI for societal benefit, such as climate, education, and humanitarian efforts.*
+
+- [AI for Good Foundation](https://ai4good.org/)
+- [UN AI for Good Global Summit](https://aiforgood.itu.int/)
+  
 ---
 
 ## IV. System Design, Operations & Infrastructure
@@ -303,6 +329,12 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [Serverless Machine Learning with AWS Lambda](https://aws.amazon.com/blogs/machine-learning/serverless-machine-learning-with-aws-lambda/) <sub>[Article/Blog Post, Intermediate/Advanced]</sub>
 - [Best practices for MLOps on Google Cloud](https://cloud.google.com/architecture/mlops-best-practices) <sub>[Article, Intermediate/Advanced]</sub>
 - [Cost Management for Machine Learning on Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/cost-management/machine-learning) <sub>[Article, Intermediate]</sub>
+
+**4. DataOps for AI/ML**
+*Best practices and tools for managing data pipelines, quality, and governance in AI/ML projects.*
+
+- [DataOps Manifesto](https://www.dataopsmanifesto.org/)
+- [DataOps for Machine Learning](https://neptune.ai/blog/dataops-for-machine-learning)
 
 ---
 
@@ -379,6 +411,17 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [Connected Papers](https://www.connectedpapers.com/) <sub>[Tool, Intermediate]</sub>
 - [Google Scholar](https://scholar.google.com/) <sub>[SearchEngine, Intermediate]</sub>
 
+**4. AI Policy, Regulation \& Governance**
+*Global and regional AI policies, standards, and regulatory frameworks.*
+
+- [OECD AI Policy Observatory](https://oecd.ai/)
+- [EU AI Act Overview](https://artificialintelligenceact.eu/)
+
+**5. Societal Impacts of AI**
+*Resources on the economic, cultural, and societal effects of AI adoption.*
+
+- [AI Now Institute Reports](https://ainowinstitute.org/reports.html)
+- [Stanford AI Index](https://aiindex.stanford.edu/)
 ---
 
 ## VI. Learning Strategies & Career Development in AI
@@ -418,6 +461,12 @@ This section provides guidance for individuals looking to start or advance their
 - [LeetCode](https://leetcode.com/) / [HackerRank](https://www.hackerrank.com/) <sub>[Platform, All Levels]</sub>
 - [ML Interview Questions](link_to_ml_interview_questions_repo) <sub>[Article]</sub>
 
+**3. Mentorship \& Networking in AI**
+*Finding mentors, joining professional networks, and building a career support system.*
+
+- [Women in Machine Learning (WiML)](https://wimlworkshop.org/)
+- [AI Alignment Forum](https://www.alignmentforum.org/)
+  
 ---
 
 ## VII. Community & Further Resources
@@ -653,6 +702,11 @@ This section provides guidance for individuals looking to start or advance their
 - [LLM Application Patterns](https://www.promptingguide.ai/) <sub>[Guide, Intermediate]</sub>
 - [LLM University: Research & Applications](https://llm.university/) <sub>[Educational Resource, Intermediate/Advanced]</sub>
 
+### 4. Grant Writing \& Research Funding for AI**
+*Guidance and resources for securing research grants and funding in AI/ML.*
+
+- [NSF Funding for AI](https://www.nsf.gov/funding/)
+- [ERC Grants](https://erc.europa.eu/funding)
 
 ---
 
