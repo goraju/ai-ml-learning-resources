@@ -10,8 +10,6 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 ## Table of Contents
 
-## Table of Contents
-
 - [AI & Machine Learning Foundations](#ai--machine-learning-foundations-)
 - [AI/ML Tools, Frameworks & Libraries](#aiml-tools-frameworks--libraries-)
 - [Advanced AI Domains & Architectures](#advanced-ai-domains--architectures-)
