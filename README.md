@@ -10,18 +10,20 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 ## Table of Contents
 
-* [I. AI & Machine Learning Foundations](#i-ai--machine-learning-foundations)
-* [II. Advanced AI Domains & Architectures](#ii-advanced-ai-domains--architectures)
-* [III. AI & ML Applications Across Industries](#iii-ai--ml-applications-across-industries)
-* [IV. AI/ML System Design & MLOps](#iv-aiml-system-design--mlops)
-* [V. Ethics in AI](#v-ethics-in-ai)
-* [VI. AI Security & Security for AI](#vi-ai-security--security-for-ai)
-* [VII. Emerging Trends in AI](#vii-emerging-trends-in-ai)
-* [VIII. AI Learning Paths & Career Development](#viii-ai-learning-paths--career-development)
-* [IX. AI Community & Professional Resources](#ix-ai-community--professional-resources)
-* [X. AI/ML Tools, Frameworks & Libraries](#x-aiml-tools-frameworks--libraries)
-* [XI. AI/ML Financial Operations (FinOps)](#xi-aiml-financial-operations-finops)
-* [XII. AI Research Methodologies & Innovation](#xii-ai-research-methodologies--innovation)
+## Table of Contents
+
+- [AI & Machine Learning Foundations](#ai--machine-learning-foundations-)
+- [AI/ML Tools, Frameworks & Libraries](#aiml-tools-frameworks--libraries-)
+- [Advanced AI Domains & Architectures](#advanced-ai-domains--architectures-)
+- [AI/ML System Design & MLOps](#aiml-system-design--mlops-)
+- [AI & ML Applications Across Industries](#ai--ml-applications-across-industries-)
+- [Ethics in AI](#ethics-in-ai)
+- [AI Security & Security for AI](#ai-security--security-for-ai-)
+- [AI Research Methodologies & Innovation](#ai-research-methodologies--innovation-)
+- [Emerging Trends in AI](#emerging-trends-in-ai-)
+- [AI Learning Paths & Career Development](#ai-learning-paths--career-development-)
+- [AI Community & Professional Resources](#ai-community--professional-resources-)
+- [AI/ML Financial Operations (FinOps)](#aiml-financial-operations-finops-)
 
 
 ---
@@ -420,7 +422,7 @@ A meticulously curated and continuously updated list of resources for mastering 
 **AI in Manufacturing (Industry 4.0):**
 - [AI in Manufacturing: Use Cases, Benefits, and Examples](https://www.ibm.com/topics/ai-manufacturing) <sub>[Article, Beginner/Intermediate]</sub>
 
-**3. AI/ML for Social Good \& Impact**
+**AI/ML for Social Good \& Impact**
 *Resources and case studies on using AI for societal benefit, such as climate, education, and humanitarian efforts.*
 
 - [AI for Good Foundation](https://ai4good.org/)
@@ -430,30 +432,7 @@ A meticulously curated and continuously updated list of resources for mastering 
 ---
 
 
-
-## Ethics in AI
-
-### 1. Ethics, Fairness, Transparency & Bias in AI
-*Addressing societal impacts, ethical dilemmas, and ensuring fairness and accountability in AI.*
-
-- [Weapons of Math Destruction by Cathy O'Neil](link_to_book_review_or_site) <sub>[Book, Intermediate]</sub>
-- [The Ethical Algorithm by Michael Kearns and Aaron Roth](link_to_book_review_or_site) <sub>[Book, Advanced]</sub>
-- [AI Fairness 360 (AIF360) by IBM](https://aif360.mybluemix.net/) <sub>[Toolkit/Paper, Advanced]</sub>
-- [Google AI - Responsible AI Practices](https://ai.google/responsibilities/responsible-ai-practices/) <sub>[Website/Report, Intermediate]</sub>
-- [Partnership on AI (PAI)](https://partnershiponai.org/) <sub>[Organization/Reports, Intermediate]</sub>
-- [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/) <sub>[Conference, Advanced]</sub>
-
-**Societal Impacts of AI**
-*Resources on the economic, cultural, and societal effects of AI adoption.*
-
-- [AI Now Institute Reports](https://ainowinstitute.org/reports.html)
-- [Stanford AI Index](https://aiindex.stanford.edu/)
-
-  
----
-
-
-## AI Security & Security for AI 🛡️
+## Ethics, Cybersecurity & AI 🛡️
 
 ### 1. AI Security & Privacy
 *Protecting AI models, data, and systems from threats and ensuring privacy.*
@@ -480,6 +459,24 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 - [OECD AI Policy Observatory](https://oecd.ai/)
 - [EU AI Act Overview](https://artificialintelligenceact.eu/)
+
+### 2. Ethics in AI
+
+### 1. Ethics, Fairness, Transparency & Bias in AI
+*Addressing societal impacts, ethical dilemmas, and ensuring fairness and accountability in AI.*
+
+- [Weapons of Math Destruction by Cathy O'Neil](link_to_book_review_or_site) <sub>[Book, Intermediate]</sub>
+- [The Ethical Algorithm by Michael Kearns and Aaron Roth](link_to_book_review_or_site) <sub>[Book, Advanced]</sub>
+- [AI Fairness 360 (AIF360) by IBM](https://aif360.mybluemix.net/) <sub>[Toolkit/Paper, Advanced]</sub>
+- [Google AI - Responsible AI Practices](https://ai.google/responsibilities/responsible-ai-practices/) <sub>[Website/Report, Intermediate]</sub>
+- [Partnership on AI (PAI)](https://partnershiponai.org/) <sub>[Organization/Reports, Intermediate]</sub>
+- [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/) <sub>[Conference, Advanced]</sub>
+
+**Societal Impacts of AI**
+*Resources on the economic, cultural, and societal effects of AI adoption.*
+
+- [AI Now Institute Reports](https://ainowinstitute.org/reports.html)
+- [Stanford AI Index](https://aiindex.stanford.edu/)
 
 
 ---
