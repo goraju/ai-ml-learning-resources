@@ -418,28 +418,7 @@ This section provides guidance for individuals looking to start or advance their
 - **Core Study (Security):** Adversarial ML, Model Security, Data Privacy, Cybersecurity principles, LLM Security. (Resources: See Section V.2)
 - [AI Ethics Course by University of Helsinki / Coursera / EdX](link_to_ai_ethics_course) - Courses focusing on ethical AI. (Type: Course) (Level: Intermediate) (Tags: #AIEthicsPath, #AISecurityPath)
 
-### 3. Building a Portfolio & Showcasing Skills
-*Practical ways to demonstrate your knowledge and skills to potential employers.*
-- **Personal Projects:**
-    - [Guide to Building AI Projects for Your Portfolio by freeCodeCamp](link_to_portfolio_project_guide) - Tips on selecting and executing projects. (Type: Article) (Level: Beginner/Intermediate) (Tags: #PortfolioBuilding, #AIProjects)
-    - [Kaggle Competitions & Datasets](https://www.kaggle.com/) - Participate in competitions or use datasets for projects. (Type: Platform) (Tags: #KaggleProjects, #HandsOnML)
-- **GitHub Repository:**
-    - [How to Create an Impressive GitHub Profile for Data Scientists by Towards Data Science](link_to_github_profile_guide) - Tips for showcasing your work. (Type: Article) (Level: Beginner/Intermediate) (Tags: #GitHubPortfolio, #CodingShowcase)
-- **Blogging & Content Creation:**
-    - [Why You Should Start a Data Science Blog by DataCamp](link_to_blogging_guide) - Benefits of writing about your learning journey. (Type: Article) (Level: Beginner/Intermediate) (Tags: #TechnicalWriting, #ThoughtLeadership)
-- **Contributing to Open Source:**
-    - [How to Contribute to Open Source by GitHub](https://opensource.guide/how-to-contribute/) - Official guide from GitHub. (Type: Guide) (Level: Intermediate) (Tags: #OpenSourceContribution, #RealWorldExperience)
-
-### 4. Networking, Community & Mentorship
-*The importance of connecting with others in the field.*
-- **Online Communities:** (See Section VII.5 for links: Reddit, Discord, etc.)
-- **LinkedIn for AI Professionals:**
-    - [Optimizing Your LinkedIn Profile for AI/ML Roles by KDnuggets](link_to_linkedin_guide) - Tips for networking. (Type: Article) (Level: Beginner/Intermediate) (Tags: #LinkedInNetworking, #ProfessionalBranding)
-- **Attending Meetups & Conferences (Virtual or In-Person):** (See Section VII.6)
-- **Finding a Mentor:**
-    - [How to Find a Mentor in Tech by The Muse](link_to_mentorship_guide) - General advice applicable to AI. (Type: Article) (Level: Beginner/Intermediate) (Tags: #Mentorship, #CareerGuidance)
-
-### 5. AI/ML Interview Preparation
+### 3. AI/ML Interview Preparation
 *Resources to help you ace technical and behavioral interviews for AI/ML roles.*
 - **Technical Questions:**
     - [Cracking the Coding Interview by Gayle Laakmann McDowell](link_to_ctci_book) - General coding interview prep. (Type: Book) (Tags: #CodingInterview, #DataStructuresAlgorithms)
@@ -450,7 +429,7 @@ This section provides guidance for individuals looking to start or advance their
 - **Behavioral Interviews:**
     - [STAR Method for Behavioral Questions](link_to_star_method_guide) - Structuring your answers. (Type: Article) (Tags: #BehavioralInterview, #InterviewSkills)
 
-### 6. Continuous Learning & Staying Updated
+### 4. Continuous Learning & Staying Updated
 *Strategies for keeping up with the fast-paced advancements in AI.*
 - **Following Key Researchers & Labs:** (Identify thought leaders from conferences/papers)
 - **Reading Research Papers Regularly:** (Use platforms in Section V.4.2)
