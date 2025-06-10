@@ -14,12 +14,14 @@ A meticulously curated and continuously updated list of resources for mastering 
 * [II. Advanced AI Domains & Architectures](#ii-advanced-ai-domains--architectures)
 * [III. AI & ML Applications Across Industries](#iii-ai--ml-applications-across-industries)
 * [IV. AI/ML System Design & MLOps](#iv-aiml-system-design--mlops)
-* [V. AI Ethics, Security & Emerging Trends](#v-ai-ethics-security--emerging-trends)
-* [VI. AI Learning Paths & Career Development](#vi-ai-learning-paths--career-development)
-* [VII. AI Community & Professional Resources](#vii-ai-community--professional-resources)
-* [VIII. AI/ML Tools, Frameworks & Libraries](#viii-aiml-tools-frameworks--libraries)
-* [IX. AI/ML Financial Operations (FinOps)](#ix-aiml-financial-operations-finops)
-* [X. AI Research Methodologies & Innovation](#x-ai-research-methodologies--innovation)
+* [V. Ethics in AI](#v-ethics-in-ai)
+* [VI. AI Security & Security for AI](#vi-ai-security--security-for-ai)
+* [VII. Emerging Trends in AI](#vii-emerging-trends-in-ai)
+* [VIII. AI Learning Paths & Career Development](#viii-ai-learning-paths--career-development)
+* [IX. AI Community & Professional Resources](#ix-ai-community--professional-resources)
+* [X. AI/ML Tools, Frameworks & Libraries](#x-aiml-tools-frameworks--libraries)
+* [XI. AI/ML Financial Operations (FinOps)](#xi-aiml-financial-operations-finops)
+* [XII. AI Research Methodologies & Innovation](#xii-ai-research-methodologies--innovation)
 
 ---
 
@@ -338,7 +340,7 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 ---
 
-## V. AI Ethics, Security & Emerging Trends
+## V. Ethics in AI
 
 ### 1. Ethics, Fairness, Transparency & Bias in AI
 *Addressing societal impacts, ethical dilemmas, and ensuring fairness and accountability in AI.*
@@ -350,7 +352,17 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [Partnership on AI (PAI)](https://partnershiponai.org/) <sub>[Organization/Reports, Intermediate]</sub>
 - [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/) <sub>[Conference, Advanced]</sub>
 
-### 2. AI Security & Privacy
+**Societal Impacts of AI**
+*Resources on the economic, cultural, and societal effects of AI adoption.*
+
+- [AI Now Institute Reports](https://ainowinstitute.org/reports.html)
+- [Stanford AI Index](https://aiindex.stanford.edu/)
+  
+---
+
+## VI. AI Security & Security for AI
+
+### 1. AI Security & Privacy
 *Protecting AI models, data, and systems from threats and ensuring privacy.*
 
 **General AI Product Security:**
@@ -370,7 +382,17 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [LLM Security Best Practices by NCC Group](https://research.nccgroup.com/2023/05/16/llm-security-best-practices/) <sub>[Blog Post, Advanced]</sub>
 - [Awesome LLM Security](https://github.com/GanjinZero/Awesome-LLM-Security) <sub>[GitHubRepo, Advanced]</sub>
 
-### 3. Notable Developments & Future Trends in AI
+**AI Policy, Regulation \& Governance**
+*Global and regional AI policies, standards, and regulatory frameworks.*
+
+- [OECD AI Policy Observatory](https://oecd.ai/)
+- [EU AI Act Overview](https://artificialintelligenceact.eu/)
+
+---
+
+## VII. Emerging Trends in AI
+
+### 1. Notable Developments & Future Trends in AI
 *Highlighting significant advancements, emerging trends, and paradigm shifts in the AI field.*
 
 **AI & Quantum Computing:**
@@ -392,7 +414,7 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [Self-Supervised Learning: The Dark Matter of Intelligence](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/) <sub>[Blog Post, Advanced]</sub>
 - [AI Index Report by Stanford HAI](https://aiindex.stanford.edu/) <sub>[Report, Intermediate/Advanced]</sub>
 
-### 4. Seminal & Recent Research Papers
+### 2. Seminal & Recent Research Papers
 *A curated collection of influential papers that have shaped the AI/ML landscape.*
 
 **Foundational & Landmark Research Papers:**
@@ -411,20 +433,9 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [Connected Papers](https://www.connectedpapers.com/) <sub>[Tool, Intermediate]</sub>
 - [Google Scholar](https://scholar.google.com/) <sub>[SearchEngine, Intermediate]</sub>
 
-**4. AI Policy, Regulation \& Governance**
-*Global and regional AI policies, standards, and regulatory frameworks.*
-
-- [OECD AI Policy Observatory](https://oecd.ai/)
-- [EU AI Act Overview](https://artificialintelligenceact.eu/)
-
-**5. Societal Impacts of AI**
-*Resources on the economic, cultural, and societal effects of AI adoption.*
-
-- [AI Now Institute Reports](https://ainowinstitute.org/reports.html)
-- [Stanford AI Index](https://aiindex.stanford.edu/)
 ---
 
-## VI. AI Learning Paths & Career Development
+## VIII. AI Learning Paths & Career Development
 
 This section provides guidance for individuals looking to start or advance their careers in AI, Machine Learning, and related fields.
 
@@ -469,7 +480,7 @@ This section provides guidance for individuals looking to start or advance their
   
 ---
 
-## VII. AI Community & Professional Resources
+## IX. AI Community & Professional Resources
 
 ### 1. Leading Engineering & Research Blogs
 *Insights, tutorials, and practical learnings from AI/ML teams at top tech companies and research labs.*
@@ -564,7 +575,7 @@ This section provides guidance for individuals looking to start or advance their
 
  ---
 
-## VIII. AI/ML Tools, Frameworks & Libraries
+## X. AI/ML Tools, Frameworks & Libraries
 
 
 ### 1. AI Application Development Frameworks & SDKs
@@ -624,7 +635,7 @@ This section provides guidance for individuals looking to start or advance their
 
 ---
 
-## IX. AI/ML Financial Operations (FinOps)
+## XI. AI/ML Financial Operations (FinOps)
 
 ### 1. Cost Optimization Strategies
 *Best practices and strategies for managing infrastructure and resource costs.*
@@ -677,7 +688,7 @@ This section provides guidance for individuals looking to start or advance their
 
 ---
 
-## X. AI Research Methodologies & Innovation
+## XII. AI Research Methodologies & Innovation
 
 ### 1. Ideation Strategies
 *Tools and guides for generating AI and ML project ideas.*
