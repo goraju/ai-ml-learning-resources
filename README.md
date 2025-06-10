@@ -105,7 +105,9 @@ A meticulously curated and continuously updated list of resources for mastering 
 - Data lakes, warehouses, and data governance
 - Tools: [Apache Airflow](https://airflow.apache.org/), [DVC](https://dvc.org/), [Great Expectations](https://greatexpectations.io/)
 
-  
+
+[⬆️ Back to Table of Contents](#table-of-contents)
+
 ---
 
 
@@ -166,6 +168,7 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [Kubeflow](https://www.kubeflow.org/) <sub>[Platform/Framework, Advanced]</sub>
 - [Flyte](https://flyte.org/) <sub>[Platform/Tool, Advanced]</sub>
 
+[⬆️ Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -287,7 +290,7 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [Elements of Causal Inference](https://mitpress.mit.edu/9780262037310/elements-of-causal-inference/)
 - [DoWhy Library](https://microsoft.github.io/dowhy/)
 
-
+[⬆️ Back to Table of Contents](#table-of-contents)
 ---
 
 
@@ -390,6 +393,8 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [Why Context Protocols Matter for LLMOps (Arize AI)](https://arize.com/blog/model-context-protocol-llmops/) <sub>[Blog, Intermediate]</sub>
 
 
+[⬆️ Back to Table of Contents](#table-of-contents)
+
 ---
 
 
@@ -425,7 +430,8 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [AI for Good Foundation](https://ai4good.org/)
 - [UN AI for Good Global Summit](https://aiforgood.itu.int/)
 
-  
+[⬆️ Back to Table of Contents](#table-of-contents)
+
 ---
 
 
@@ -476,6 +482,8 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [Stanford AI Index](https://aiindex.stanford.edu/)
 
 
+[⬆️ Back to Table of Contents](#table-of-contents)
+
 ---
 
 
@@ -510,6 +518,7 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [NSF Funding for AI](https://www.nsf.gov/funding/)
 - [ERC Grants](https://erc.europa.eu/funding)
 
+[⬆️ Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -557,6 +566,7 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [Connected Papers](https://www.connectedpapers.com/) <sub>[Tool, Intermediate]</sub>
 - [Google Scholar](https://scholar.google.com/) <sub>[SearchEngine, Intermediate]</sub>
 
+[⬆️ Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -604,7 +614,8 @@ This section provides guidance for individuals looking to start or advance their
 - [Women in Machine Learning (WiML)](https://wimlworkshop.org/)
 - [AI Alignment Forum](https://www.alignmentforum.org/)
 
-  
+[⬆️ Back to Table of Contents](#table-of-contents)  
+
 ---
 
 
@@ -701,6 +712,7 @@ This section provides guidance for individuals looking to start or advance their
 - Nature Machine Intelligence <sub>[Journal, Advanced]</sub>
 - AI Magazine <sub>[Journal, Advanced]</sub>
 
+[⬆️ Back to Table of Contents](#table-of-contents)
 
  ---
 
@@ -756,6 +768,7 @@ This section provides guidance for individuals looking to start or advance their
 **Case Studies:**
 - [AI Cost Optimization Success Stories](link_to_cases) <sub>[Case Studies, Intermediate]</sub>
 
+[⬆️ Back to Table of Contents](#table-of-contents)
 
 ---
 
