@@ -12,11 +12,11 @@ A meticulously curated and continuously updated list of resources for mastering 
 ## Table of Contents
 
 - [AI & Machine Learning Foundations](#ai--machine-learning-foundations-)
-- [AI/ML Tools, Frameworks & Libraries](#aiml-tools-frameworks--libraries-)
+- [AI/ML Tools, Frameworks & Libraries](#aiml-tools-frameworks--libraries-%EF%B8%8F))
 - [Advanced AI Domains & Architectures](#advanced-ai-domains--architectures-)
-- [AI/ML System Design & MLOps](#aiml-system-design--mlops-)
+- [AI/ML System Design & MLOps](#aiml-system-design--mlops-%EF%B8%8F)
 - [AI & ML Applications Across Industries](#ai--ml-applications-across-industries-)
-- [Ethics, Cybersecurity & AI](#ethics-cybersecurity--ai-)
+- [Ethics, Cybersecurity & AI](#ethics-cybersecurity--ai-%EF%B8%8F)
 - [AI Research Methodologies & Innovation](#ai-research-methodologies--innovation-)
 - [Emerging Trends in AI](#emerging-trends-in-ai-)
 - [AI Learning Paths & Career Development](#ai-learning-paths--career-development-)
