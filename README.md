@@ -48,34 +48,23 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 ### 3. Python & Key Libraries for AI/ML
 
-**Python Fundamentals:**
 - [Python for Everybody Specialization by University of Michigan](https://www.coursera.org/specializations/python) <sub>[Course, Beginner]</sub>
 - [Official Python Tutorial](https://docs.python.org/3/tutorial/) <sub>[Documentation, Beginner/Intermediate]</sub>
-
-**Data Manipulation & Analysis:**
 - [NumPy Official Documentation & Tutorials](https://numpy.org/doc/stable/user/index.html) <sub>[Documentation, Beginner/Intermediate]</sub>
 - [Pandas Official Documentation](https://pandas.pydata.org/docs/user_guide/index.html) <sub>[Documentation, Beginner/Intermediate]</sub>
 - [Modern Pandas by Tom Augspurger](https://tomaugspurger.net/posts/modern-1-intro/) <sub>[Tutorial Series, Intermediate]</sub>
-
-**Data Visualization:**
 - [Matplotlib Official Tutorials](https://matplotlib.org/stable/tutorials/index.html) <sub>[Documentation, Beginner/Intermediate]</sub>
 - [Seaborn Official Tutorial](https://seaborn.pydata.org/tutorial.html) <sub>[Documentation, Intermediate]</sub>
-
-**Machine Learning Libraries:**
 - [Scikit-learn Official User Guide](https://scikit-learn.org/stable/user_guide.html) <sub>[Documentation, Intermediate]</sub>
-
-**Deep Learning Frameworks:**
 - [TensorFlow Core Tutorials](https://www.tensorflow.org/tutorials) <sub>[Documentation, Intermediate]</sub>
 - [Keras Documentation](https://keras.io/guides/) <sub>[Documentation, Intermediate]</sub>
 - [PyTorch Official Tutorials](https://pytorch.org/tutorials/) <sub>[Tutorial, Intermediate]</sub>
 - [PyTorch Lightning Documentation](https://pytorch-lightning.readthedocs.io/) <sub>[Documentation, Intermediate/Advanced]</sub>
-
-**NLP & Transformers:**
 - [Hugging Face LLM Course](https://huggingface.co/course/chapter1/1) <sub>[Course, Intermediate/Advanced]</sub>
 - [Transformers Documentation](https://huggingface.co/docs/transformers/index) <sub>[Documentation, Advanced]</sub>
 - [spaCy Course](https://course.spacy.io/) <sub>[Course, Intermediate]</sub>
 
-### 6. Data Engineering \& Data Management for AI/ML
+### 4. Data Engineering \& Data Management for AI/ML
 
 [Coming Soon]
 
