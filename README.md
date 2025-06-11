@@ -17,7 +17,6 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [AI/ML System Design & MLOps](#aiml-system-design--mlops-%EF%B8%8F)
 - [AI & ML Applications Across Industries](#ai--ml-applications-across-industries-)
 - [Ethics, Cybersecurity & AI](#ethics-cybersecurity--ai-%EF%B8%8F)
-- [AI Research Methodologies & Innovation](#ai-research-methodologies--innovation-)
 - [Emerging Trends in AI](#emerging-trends-in-ai-)
 - [AI Learning Paths & Career Development](#ai-learning-paths--career-development-)
 - [AI Community & Professional Resources](#ai-community--professional-resources-)
@@ -121,33 +120,22 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 ### 1. Natural Language Processing (NLP)
 
-**Fundamentals:**
 - [Speech and Language Processing by Jurafsky and Martin](https://web.stanford.edu/~jurafsky/slp3/) <sub>[Book, Intermediate/Advanced]</sub>
 - [Stanford CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) <sub>[Course, Advanced]</sub>
 - [NLP Specialization by deeplearning.ai](https://www.coursera.org/specializations/natural-language-processing) <sub>[Course, Intermediate]</sub>
-
-**Modern NLP & Transformers:**
 - [Hugging Face LLM Course](https://huggingface.co/learn/nlp-course/chapter1/1) <sub>[Course, Intermediate]</sub>
 - [The Illustrated Transformer by Jay Alammar](https://jalammar.github.io/illustrated-transformer/) <sub>[Article, Intermediate]</sub>
 
 ### 2. Large Language Models (LLMs)
 
-**Core Concepts:**
 - [Andrej Karpathy's Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) <sub>[Video Series, Advanced]</sub>
 - [Stanford CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/) <sub>[Course, Advanced]</sub>
-
-**Prompt Engineering:**
 - [Prompt Engineering Guide](https://www.promptingguide.ai/) <sub>[Guide, Intermediate]</sub>
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) <sub>[Documentation, Intermediate]</sub>
 - [Prompt Engineering Guide by Google](https://www.kaggle.com/whitepaper-prompt-engineering)<sub>[Book, Beginner]</sub>
 
 ### 3. Computer Vision (CV)
 
-**Fundamentals:**
-
-[Coming Soon]
-
-**Modern Architectures & Applications:**
 - [TorchVision Tutorial](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html) <sub>[Tutorial, Intermediate]</sub>
 - [OpenCV Python Tutorials](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html) <sub>[Documentation, Beginner/Intermediate]</sub>
 - [fastai Practical Deep Learning for Coders](https://course.fast.ai/) <sub>[Course, Intermediate]</sub>
@@ -155,38 +143,16 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 ### 4. Reinforcement Learning (RL)
 
-**Fundamentals:**
 - [Deep Reinforcement Learning Course by Hugging Face](https://huggingface.co/learn/deep-rl-course/unit0/introduction) <sub>[Course, Intermediate/Advanced]</sub>
 - [Spinning Up in Deep RL by OpenAI](https://spinningup.openai.com/en/latest/) <sub>[Course, Advanced]</sub>
 - [Reinforcement Learning by Sutton and Barto](http://incompleteideas.net/book/the-book-2nd.html) <sub>[Book, Advanced]</sub>
-
-**Advanced Topics:**
 - [Stanford CS234: Reinforcement Learning](https://www.youtube.com/watch?v=WsvFL-LjA6U&list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) <sub>[Course, Advanced]</sub>
 - [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) <sub>[Video Series, Advanced]</sub>
 - [RL Theory Book by Csaba Szepesvári](https://rltheory.github.io/) <sub>[Book, Advanced]</sub>
 
-### 6. Agentic AI
-
-#### Core Concepts \& Architectures
+### 5. Agentic AI
 
 [Coming Soon]
-
-
-#### Multi-Agent Systems
-
-[Coming Soon]
-
-
-#### Practical Tools \& Libraries
-
-[Coming Soon]
-
-
-**8. Multimodal AI**
-
-- [CLIP: Connecting Text and Images](https://openai.com/research/clip)
-- [Multimodal Transformers](https://arxiv.org/abs/2107.07502)
-- [Stanford CS330: Multi-Modal Machine Learning](https://cs330.stanford.edu/)
 
 
 [⬆️ Back to Table of Contents](#table-of-contents)
@@ -205,31 +171,23 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 ### 2. MLOps (Machine Learning Operations)
 
-**Introduction to MLOps Principles & Lifecycle:**
 - [MLOps Community](https://mlops.community/) <sub>[Community/Platform, Intermediate/Advanced]</sub>
 - [The MLOps Roadmap by Evidently AI](https://evidentlyai.com/mlops-roadmap) <sub>[Article/Roadmap, Beginner/Intermediate]</sub>
 - [MLOps Specialization by deeplearning.ai](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) <sub>[Course, Intermediate/Advanced]</sub>
-
-**Model Deployment, Serving & Management:**
 - [Deploying Machine Learning Models: A Guide](https://neptune.ai/blog/deploying-machine-learning-models-guide-tools-platforms) <sub>[Article, Intermediate]</sub>
 - [BentoML Documentation](https://docs.bentoml.org/en/latest/) <sub>[ToolDocumentation, Intermediate]</sub>
 - [Seldon Core Documentation](https://docs.seldon.io/projects/seldon-core/en/latest/) <sub>[ToolDocumentation, Advanced]</sub>
 
 ### 3. LLMOps (Large Language Model Operations)
 
-**LLM Development, Training & Fine-tuning:**
 - [Hugging Face Transformers - Fine-tuning Guide](https://huggingface.co/docs/transformers/training) <sub>[Documentation/Tutorial, Advanced]</sub>
 - [Parameter-Efficient Fine-Tuning Libraries](https://huggingface.co/docs/peft/index) <sub>[Library/Documentation, Advanced]</sub>
 - [Reinforcement Learning from Human Feedback (RLHF)](https://huyenchip.com/2023/05/02/rlhf.html) <sub>[Blog Post, Advanced]</sub>
 - [Full Stack LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/) <sub>[Course, Advanced]</sub>
-
-**Prompt Engineering & Optimization:**
 - [Prompt Engineering Guide by DAIR.AI](https://www.promptingguide.ai/) <sub>[Guide/Website, Intermediate/Advanced]</sub>
 - [OpenAI Cookbook - Techniques](https://cookbook.openai.com/articles/techniques_to_improve_reliability) <sub>[Guide/Examples, Intermediate]</sub>
 - [LangChain Documentation - Prompts](https://python.langchain.com/docs/modules/model_io/prompts/) <sub>[ToolDocumentation, Intermediate/Advanced]</sub>
 - [LearnPrompting.org](https://learnprompting.org/) <sub>[Course, Beginner/Intermediate]</sub>
-
-**LLM Evaluation & Benchmarking:**
 - [HELM: Holistic Evaluation of Language Models](https://crfm.stanford.edu/helm/latest/) <sub>[Benchmark/Paper, Advanced]</sub>
 - [GLUE Benchmark](https://gluebenchmark.com/) & [SuperGLUE Benchmark](https://super.gluebenchmark.com/) <sub>[Benchmark, Advanced]</sub>
 - [Evaluating LLMs: A Practical Guide](https://txt.cohere.com/evaluating-llms-guide/) <sub>[Article, Intermediate]</sub>
@@ -237,19 +195,15 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 ### 4. Data Engineering for AI/ML Systems
 
-**Data Pipelines & ETL/ELT for ML:**
 - [Designing Data-Intensive Applications](link_to_book_review_or_site) <sub>[Book, Advanced]</sub>
 - [Apache Airflow Documentation](https://airflow.apache.org/docs/) <sub>[ToolDocumentation, Intermediate/Advanced]</sub>
 - [Prefect Documentation](https://docs.prefect.io/) <sub>[ToolDocumentation, Intermediate/Advanced]</sub>
 - [Dagster Documentation](https://docs.dagster.io/) <sub>[ToolDocumentation, Intermediate/Advanced]</sub>
 - [dbt Documentation](https://docs.getdbt.com/) <sub>[ToolDocumentation, Intermediate]</sub>
-
-**Feature Stores & Feature Engineering at Scale:**
 - [Feast Documentation](https://docs.feast.dev/) <sub>[ToolDocumentation, Advanced]</sub>
 
 ### 5. AI/ML in the Cloud (Platforms & Articles)
 
-**Cloud AI Platforms:**
 - [AWS SageMaker Documentation](https://docs.aws.amazon.com/sagemaker/index.html) <sub>[Documentation, Intermediate/Advanced]</sub>
 - [Google Cloud Vertex AI Documentation](https://cloud.google.com/vertex-ai/docs) <sub>[Documentation, Intermediate/Advanced]</sub>
 - [Microsoft Azure Machine Learning Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/) <sub>[Documentation, Intermediate/Advanced]</sub>
@@ -269,22 +223,6 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 ## AI & ML Applications Across Industries 🏭
 
-### 1. Applied AI/ML Case Studies & Real-World Examples
-
-[Coming Soon]
-
-### 2. AI/ML in Specific Industries
-
-**AI in Finance (FinTech):**
-
-[Coming Soon]
-
-**AI in Retail & E-commerce:**
-
-[Coming Soon]
-
-**AI in Healthcare:**
-
 [Coming Soon]
 
 
@@ -293,50 +231,23 @@ A meticulously curated and continuously updated list of resources for mastering 
 ---
 
 
-## Ethics, Cybersecurity & AI 🛡️
+##  AI & Cybersecurity, Ethics 🛡️
 
 ### 1. AI Security & Privacy
-
-**General AI Product Security:**
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) <sub>[Framework/Standard, Advanced]</sub>
 - [Adversarial Robustness Toolbox (ART) by IBM](https://github.com/Trusted-AI/adversarial-robustness-toolbox) <sub>[Toolkit/GitHubRepo, Advanced]</sub>
 - [Privacy-Preserving Machine Learning Resources](https://www.openmined.org/) <sub>[Community/Platform, Advanced]</sub>
-
-**Cybersecurity & AI:**
-
-[Coming Soon]
-
-**LLM Security & Prompt Injection:**
 - [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) <sub>[Standard/Guide, Advanced]</sub>
 - [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications](https://arxiv.org/abs/2302.12173) <sub>[Paper, Advanced]</sub>
 - [LLM Security Best Practices by NCC Group](https://research.nccgroup.com/2023/05/16/llm-security-best-practices/) <sub>[Blog Post, Advanced]</sub>
 - [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security?tab=readme-ov-file) <sub>[GitHubRepo, Advanced]</sub>
-
-**AI Policy, Regulation \& Governance**
-
 - [EU AI Act Overview](https://artificialintelligenceact.eu/)
 
 ### 2. Ethics in AI
 
-### 1. Ethics, Fairness, Transparency & Bias in AI
-
 - [Google AI - Responsible AI Practices](https://ai.google/responsibilities/responsible-ai-practices/) <sub>[Website/Report, Intermediate]</sub>
-
-**Societal Impacts of AI**
-
 - [AI Now Institute Reports](https://ainowinstitute.org)
 - [Stanford AI Index](https://aiindex.stanford.edu/)
-
-
-[⬆️ Back to Table of Contents](#table-of-contents)
-
----
-
-
-## AI Research Methodologies & Innovation 🔬
-
-
-[Coming Soon]
 
 
 [⬆️ Back to Table of Contents](#table-of-contents)
@@ -347,20 +258,11 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 ## Emerging Trends in AI 📈
 
-### 1. Notable Developments & Future Trends in AI
-
-[Coming Soon]
-
-### 2. Seminal & Recent Research Papers
-
-**Foundational & Landmark Research Papers:**
 - [A Few Useful Things to Know About Machine Learning (2012)](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) <sub>[Paper, Intermediate/Advanced]</sub>
 - [Generative Adversarial Nets (2014)](https://arxiv.org/abs/1406.2661) <sub>[Paper, Advanced]</sub>
 - [Deep Residual Learning for Image Recognition (2015)](https://arxiv.org/abs/1512.03385) <sub>[Paper, Advanced]</sub>
 - [Attention Is All You Need (2017)](https://arxiv.org/abs/1706.03762) <sub>[Paper, Advanced]</sub>
 - [BERT: Pre-training of Deep Bidirectional Transformers (2018)](https://arxiv.org/abs/1810.04805) <sub>[Paper, Advanced]</sub>
-
-**Research Paper Aggregators & Platforms:**
 - [ArXiv (cs.AI, cs.LG, cs.CL, cs.CV)](https://arxiv.org/) <sub>[Repository, Intermediate/Advanced]</sub>
 - [Google Scholar](https://scholar.google.com/) <sub>[SearchEngine, Intermediate]</sub>
 
