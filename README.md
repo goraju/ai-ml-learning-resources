@@ -25,7 +25,7 @@ A meticulously curated and continuously updated list of resources for mastering 
 ---
 
 
-## AI & Machine Learning Foundations 🧠
+## 🧠 AI & Machine Learning Foundations 
 
 ### 1. Core Artificial Intelligence Concepts
 
@@ -72,7 +72,7 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 ---
 
-## AI/ML Tools, Frameworks & Libraries 🛠️
+## 🛠️ AI/ML Tools, Frameworks & Libraries 
 
 ### 1. AI Application Development Frameworks & SDKs
 
@@ -116,7 +116,7 @@ A meticulously curated and continuously updated list of resources for mastering 
 ---
 
 
-## Advanced AI Domains & Architectures 🚀
+## 🚀 Advanced AI Domains & Architectures 
 
 ### 1. Natural Language Processing (NLP)
 
@@ -126,22 +126,15 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [Hugging Face LLM Course](https://huggingface.co/learn/nlp-course/chapter1/1) <sub>[Course, Intermediate]</sub>
 - [The Illustrated Transformer by Jay Alammar](https://jalammar.github.io/illustrated-transformer/) <sub>[Article, Intermediate]</sub>
 
-### 2. Large Language Models (LLMs)
 
-- [Andrej Karpathy's Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) <sub>[Video Series, Advanced]</sub>
-- [Stanford CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/) <sub>[Course, Advanced]</sub>
-- [Prompt Engineering Guide](https://www.promptingguide.ai/) <sub>[Guide, Intermediate]</sub>
-- [OpenAI Cookbook](https://github.com/openai/openai-cookbook) <sub>[Documentation, Intermediate]</sub>
-- [Prompt Engineering Guide by Google](https://www.kaggle.com/whitepaper-prompt-engineering)<sub>[Book, Beginner]</sub>
-
-### 3. Computer Vision (CV)
+### 2. Computer Vision (CV)
 
 - [TorchVision Tutorial](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html) <sub>[Tutorial, Intermediate]</sub>
 - [OpenCV Python Tutorials](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html) <sub>[Documentation, Beginner/Intermediate]</sub>
 - [fastai Practical Deep Learning for Coders](https://course.fast.ai/) <sub>[Course, Intermediate]</sub>
 
 
-### 4. Reinforcement Learning (RL)
+### 3. Reinforcement Learning (RL)
 
 - [Deep Reinforcement Learning Course by Hugging Face](https://huggingface.co/learn/deep-rl-course/unit0/introduction) <sub>[Course, Intermediate/Advanced]</sub>
 - [Spinning Up in Deep RL by OpenAI](https://spinningup.openai.com/en/latest/) <sub>[Course, Advanced]</sub>
@@ -149,6 +142,14 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [Stanford CS234: Reinforcement Learning](https://www.youtube.com/watch?v=WsvFL-LjA6U&list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) <sub>[Course, Advanced]</sub>
 - [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) <sub>[Video Series, Advanced]</sub>
 - [RL Theory Book by Csaba Szepesvári](https://rltheory.github.io/) <sub>[Book, Advanced]</sub>
+
+### 4. Large Language Models (LLMs)
+
+- [Andrej Karpathy's Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) <sub>[Video Series, Advanced]</sub>
+- [Stanford CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/) <sub>[Course, Advanced]</sub>
+- [Prompt Engineering Guide](https://www.promptingguide.ai/) <sub>[Guide, Intermediate]</sub>
+- [OpenAI Cookbook](https://github.com/openai/openai-cookbook) <sub>[Documentation, Intermediate]</sub>
+- [Prompt Engineering Guide by Google](https://www.kaggle.com/whitepaper-prompt-engineering)<sub>[Book, Beginner]</sub>
 
 ### 5. Agentic AI
 
@@ -160,7 +161,7 @@ A meticulously curated and continuously updated list of resources for mastering 
 ---
 
 
-## AI/ML System Design & MLOps ⚙️
+## ⚙️ AI/ML System Design & MLOps 
 
 ### 1. AI/ML System Design & Architecture
 
@@ -221,7 +222,7 @@ A meticulously curated and continuously updated list of resources for mastering 
 ---
 
 
-## AI & ML Applications Across Industries 🏭
+## 🏭 AI & ML Applications Across Industries 
 
 [Coming Soon]
 
@@ -231,7 +232,7 @@ A meticulously curated and continuously updated list of resources for mastering 
 ---
 
 
-##  AI & Cybersecurity, Ethics 🛡️
+## 🛡️ AI/ML Cybersecurity & Ethics
 
 ### 1. AI Security & Privacy
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) <sub>[Framework/Standard, Advanced]</sub>
@@ -253,10 +254,33 @@ A meticulously curated and continuously updated list of resources for mastering 
 [⬆️ Back to Table of Contents](#table-of-contents)
 
 
+ ---
+
+## 💰 AI/ML Financial Operations (FinOps) 
+
+- [MLOps Cost Optimization Guide](link_to_guide) <sub>[Guide, Intermediate]</sub>
+- [GPU Instance Selection & Scheduling](link_to_article) <sub>[Article, Intermediate]</sub>
+- [Serverless ML Deployment Patterns](link_to_patterns) <sub>[Article, Advanced]</sub>
+- [AWS Cost Explorer for ML Workloads](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/) <sub>[Tool/Documentation, Intermediate]</sub>
+- [SageMaker Cost Optimization](https://aws.amazon.com/sagemaker/pricing/) <sub>[Documentation, Intermediate]</sub>
+- [Azure ML Cost Management](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-manage-optimize-cost) <sub>[Documentation, Intermediate]</sub>
+- [Vertex AI Pricing Best Practices](https://cloud.google.com/vertex-ai/pricing) <sub>[Documentation, Intermediate]</sub>
+- [Efficient Training Strategies](link_to_strategies) <sub>[Guide, Advanced]</sub>
+- [Distributed Training Cost Analysis](link_to_analysis) <sub>[Article, Advanced]</sub>
+- [Model Compression Techniques](link_to_techniques) <sub>[Guide, Advanced]</sub>
+- [Batch Processing Strategies](link_to_batch_strategies) <sub>[Article, Intermediate]</sub>
+- [ML Cost Monitoring Dashboards](link_to_dashboards) <sub>[Tool, Intermediate]</sub>
+- [Cloud Cost Attribution for ML](link_to_attribution) <sub>[Guide, Intermediate]</sub>
+- [AI Project ROI Framework](link_to_framework) <sub>[Guide, Advanced]</sub>
+- [Cost-Benefit Analysis Templates](link_to_templates) <sub>[Template, Intermediate]</sub>
+- [AI Cost Optimization Success Stories](link_to_cases) <sub>[Case Studies, Intermediate]</sub>
+
+[⬆️ Back to Table of Contents](#table-of-contents)
+
 ---
 
 
-## Emerging Trends in AI 📈
+## 📈 Emerging Trends in AI 
 
 - [A Few Useful Things to Know About Machine Learning (2012)](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) <sub>[Paper, Intermediate/Advanced]</sub>
 - [Generative Adversarial Nets (2014)](https://arxiv.org/abs/1406.2661) <sub>[Paper, Advanced]</sub>
@@ -271,16 +295,17 @@ A meticulously curated and continuously updated list of resources for mastering 
 ---
 
 
-## AI Learning Paths & Career Development 💼 
+## 💼 AI Learning Paths & Career Development 
 
 [Coming Soon]
 
 [⬆️ Back to Table of Contents](#table-of-contents)  
 
+
 ---
 
 
-## AI Community & Professional Resources 🤝
+## 🤝 AI Community & Professional Resources 
 
 ### 1. Leading Engineering & Research Blogs
 
@@ -362,32 +387,6 @@ A meticulously curated and continuously updated list of resources for mastering 
 - TPAMI <sub>[Journal, Advanced]</sub>
 - Nature Machine Intelligence <sub>[Journal, Advanced]</sub>
 - AI Magazine <sub>[Journal, Advanced]</sub>
-
-[⬆️ Back to Table of Contents](#table-of-contents)
-
- ---
-
-
-## AI/ML Financial Operations (FinOps) 💰
-
-- [MLOps Cost Optimization Guide](link_to_guide) <sub>[Guide, Intermediate]</sub>
-- [GPU Instance Selection & Scheduling](link_to_article) <sub>[Article, Intermediate]</sub>
-- [Serverless ML Deployment Patterns](link_to_patterns) <sub>[Article, Advanced]</sub>
-- [AWS Cost Explorer for ML Workloads](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/) <sub>[Tool/Documentation, Intermediate]</sub>
-- [SageMaker Cost Optimization](https://aws.amazon.com/sagemaker/pricing/) <sub>[Documentation, Intermediate]</sub>
-- [Azure ML Cost Management](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-manage-optimize-cost) <sub>[Documentation, Intermediate]</sub>
-- [Vertex AI Pricing Best Practices](https://cloud.google.com/vertex-ai/pricing) <sub>[Documentation, Intermediate]</sub>
-- [Efficient Training Strategies](link_to_strategies) <sub>[Guide, Advanced]</sub>
-- [Distributed Training Cost Analysis](link_to_analysis) <sub>[Article, Advanced]</sub>
-- [Model Compression Techniques](link_to_techniques) <sub>[Guide, Advanced]</sub>
-- [Batch Processing Strategies](link_to_batch_strategies) <sub>[Article, Intermediate]</sub>
-- [ML Cost Monitoring Dashboards](link_to_dashboards) <sub>[Tool, Intermediate]</sub>
-- [Cloud Cost Attribution for ML](link_to_attribution) <sub>[Guide, Intermediate]</sub>
-- [AI Project ROI Framework](link_to_framework) <sub>[Guide, Advanced]</sub>
-- [Cost-Benefit Analysis Templates](link_to_templates) <sub>[Template, Intermediate]</sub>
-
-**Case Studies:**
-- [AI Cost Optimization Success Stories](link_to_cases) <sub>[Case Studies, Intermediate]</sub>
 
 [⬆️ Back to Table of Contents](#table-of-contents)
 
