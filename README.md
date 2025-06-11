@@ -326,32 +326,23 @@ A meticulously curated and continuously updated list of resources for mastering 
 ### 1. Applied AI/ML Case Studies & Real-World Examples
 *Demonstrations of AI/ML solving tangible problems across various domains.*
 
-- [Google AI Blog - Applications Section](https://ai.googleblog.com/search/label/Applications) <sub>[Blog Posts, Intermediate]</sub>
-- [AWS Machine Learning Blog - Case Studies](https://aws.amazon.com/blogs/machine-learning/category/customers/) <sub>[Blog Posts, Intermediate]</sub>
-- [Kaggle Kernels/Notebooks with High Votes](https://www.kaggle.com/kernels) <sub>[Code/Tutorials, Intermediate/Advanced]</sub>
+[Coming Soon]
 
 ### 2. AI/ML in Specific Industries
 *Resources focusing on AI applications within sectors like healthcare, finance, retail, etc.*
 
-**AI in Healthcare:**
-- [Nature Medicine - AI in Medicine Collection](https://www.nature.com/collections/gbaeibcebh) <sub>[JournalCollection, Advanced]</sub>
-- [Stanford AIMI (Artificial Intelligence in Medicine and Imaging) Center](https://aimi.stanford.edu/) <sub>[ResearchHub, Intermediate/Advanced]</sub>
-
 **AI in Finance (FinTech):**
-- [Journal of Financial Data Science](https://jfds.pm-research.com/) <sub>[Journal, Advanced]</sub>
-- [Fintech Brainfood Newsletter by Simon Taylor](https://substack.com/profile/285914-simon-taylor) <sub>[Newsletter, Intermediate]</sub>
+
+[Coming Soon]
 
 **AI in Retail & E-commerce:**
-- [AI in Retail: Examples & Applications](https://www.forbes.com/sites/bernardmarr/2021/08/23/the-10-best-examples-of-ai-in-retail/) <sub>[Article, Beginner/Intermediate]</sub>
 
-**AI in Manufacturing (Industry 4.0):**
-- [AI in Manufacturing: Use Cases, Benefits, and Examples](https://www.ibm.com/topics/ai-manufacturing) <sub>[Article, Beginner/Intermediate]</sub>
+[Coming Soon]
 
-**AI/ML for Social Good \& Impact**
-*Resources and case studies on using AI for societal benefit, such as climate, education, and humanitarian efforts.*
+**AI in Healthcare:**
 
-- [AI for Good Foundation](https://ai4good.org/)
-- [UN AI for Good Global Summit](https://aiforgood.itu.int/)
+[Coming Soon]
+
 
 [⬆️ Back to Table of Contents](#table-of-contents)
 
@@ -365,25 +356,22 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 **General AI Product Security:**
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) <sub>[Framework/Standard, Advanced]</sub>
-- [Microsoft AI Security Resources](https://www.microsoft.com/en-us/security/business/ai-machine-learning) <sub>[Website/Reports, Intermediate]</sub>
 - [Adversarial Robustness Toolbox (ART) by IBM](https://github.com/Trusted-AI/adversarial-robustness-toolbox) <sub>[Toolkit/GitHubRepo, Advanced]</sub>
 - [Privacy-Preserving Machine Learning Resources](https://www.openmined.org/) <sub>[Community/Platform, Advanced]</sub>
 
 **Cybersecurity & AI:**
-- [Applying AI to Cybersecurity: A Practical Guide](https://www.sans.org/white-papers/39030/) <sub>[Whitepaper, Advanced]</sub>
-- [Machine Learning and Security](link_to_book_review_or_site) <sub>[Book, Advanced]</sub>
-- [Awesome AI for Cybersecurity](https://github.com/jivoi/awesome-ai-for-cybersecurity) <sub>[GitHubRepo, Intermediate]</sub>
+
+[Coming Soon]
 
 **LLM Security & Prompt Injection:**
 - [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) <sub>[Standard/Guide, Advanced]</sub>
 - [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications](https://arxiv.org/abs/2302.12173) <sub>[Paper, Advanced]</sub>
 - [LLM Security Best Practices by NCC Group](https://research.nccgroup.com/2023/05/16/llm-security-best-practices/) <sub>[Blog Post, Advanced]</sub>
-- [Awesome LLM Security](https://github.com/GanjinZero/Awesome-LLM-Security) <sub>[GitHubRepo, Advanced]</sub>
+- [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security?tab=readme-ov-file) <sub>[GitHubRepo, Advanced]</sub>
 
 **AI Policy, Regulation \& Governance**
 *Global and regional AI policies, standards, and regulatory frameworks.*
 
-- [OECD AI Policy Observatory](https://oecd.ai/)
 - [EU AI Act Overview](https://artificialintelligenceact.eu/)
 
 ### 2. Ethics in AI
@@ -391,17 +379,12 @@ A meticulously curated and continuously updated list of resources for mastering 
 ### 1. Ethics, Fairness, Transparency & Bias in AI
 *Addressing societal impacts, ethical dilemmas, and ensuring fairness and accountability in AI.*
 
-- [Weapons of Math Destruction by Cathy O'Neil](link_to_book_review_or_site) <sub>[Book, Intermediate]</sub>
-- [The Ethical Algorithm by Michael Kearns and Aaron Roth](link_to_book_review_or_site) <sub>[Book, Advanced]</sub>
-- [AI Fairness 360 (AIF360) by IBM](https://aif360.mybluemix.net/) <sub>[Toolkit/Paper, Advanced]</sub>
 - [Google AI - Responsible AI Practices](https://ai.google/responsibilities/responsible-ai-practices/) <sub>[Website/Report, Intermediate]</sub>
-- [Partnership on AI (PAI)](https://partnershiponai.org/) <sub>[Organization/Reports, Intermediate]</sub>
-- [ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)](https://facctconference.org/) <sub>[Conference, Advanced]</sub>
 
 **Societal Impacts of AI**
 *Resources on the economic, cultural, and societal effects of AI adoption.*
 
-- [AI Now Institute Reports](https://ainowinstitute.org/reports.html)
+- [AI Now Institute Reports](https://ainowinstitute.org)
 - [Stanford AI Index](https://aiindex.stanford.edu/)
 
 
