@@ -69,47 +69,6 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 ---
 
-## 🛠️ AI/ML Tools, Frameworks & Libraries 
-
-### 1. AI Application Development Frameworks & SDKs
-
-- [LangChain](https://www.langchain.com/) <sub>[Framework/Library, Intermediate/Advanced]</sub>
-- [LlamaIndex](https://www.llamaindex.ai/) <sub>[Framework/Library, Intermediate/Advanced]</sub>
-
-### 2. AI-Powered Developer Productivity Tools
-
-- [GitHub Copilot](https://github.com/features/copilot) <sub>[Tool/IDEPlugin, All]</sub>
-- [Cursor](https://cursor.sh/) <sub>[IDE/Tool, All]</sub>
-- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) <sub>[Tool/IDEPlugin, All]</sub>
-
-
-### 3. Data Augmentation & Synthetic Data Generation Tools
-
-- [Albumentations](https://albumentations.ai/) <sub>[Library, Intermediate/Advanced]</sub>
-- [NVIDIA Omniverse Replicator](https://developer.nvidia.com/omniverse/replicator) <sub>[SDK/Platform, Advanced]</sub>
-- [Snorkel AI](https://snorkel.ai/) <sub>[Platform/Framework, Advanced]</sub>
-- [Gretel.ai](https://gretel.ai/) <sub>[Platform/Tool, Intermediate/Advanced]</sub>
-
-### 4. Model Optimization & Compression Toolkits
-
-[Coming Soon]
-
-### 5. Vector Databases & Semantic Search
-
-- [FAISS](https://github.com/facebookresearch/faiss) <sub>[Library, Advanced]</sub>
-- [ScaNN](https://github.com/google-research/google-research/tree/master/scann) <sub>[Library, Advanced]</sub>
-- [Pinecone](https://www.pinecone.io/) <sub>[Platform/Service, Intermediate/Advanced]</sub>
-- [Weaviate](https://weaviate.io/) <sub>[Database/Tool, Intermediate/Advanced]</sub>
-- [Milvus](https://milvus.io/) <sub>[Database/Tool, Intermediate/Advanced]</sub>
-- [ChromaDB](https://www.trychroma.com/) <sub>[Database/Tool, Intermediate]</sub>
-
-### 6. Advanced Experiment Management & Orchestration
-
-- [Kubeflow](https://www.kubeflow.org/) <sub>[Platform/Framework, Advanced]</sub>
-- [Pachyderm](https://www.pachyderm.com/) <sub>[Platform/Tool, Advanced]</sub>
-
----
-
 
 ## 🚀 Advanced AI Domains & Architectures 
 
@@ -209,14 +168,54 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 [Coming Soon]
 
-
 ---
-
 
 ## 🏭 AI & ML Applications Across Industries 
 
 [Coming Soon]
 
+
+
+---
+
+## 🛠️ AI/ML Tools, Frameworks & Libraries 
+
+### 1. AI Application Development Frameworks & SDKs
+
+- [LangChain](https://www.langchain.com/) <sub>[Framework/Library, Intermediate/Advanced]</sub>
+- [LlamaIndex](https://www.llamaindex.ai/) <sub>[Framework/Library, Intermediate/Advanced]</sub>
+
+### 2. AI-Powered Developer Productivity Tools
+
+- [GitHub Copilot](https://github.com/features/copilot) <sub>[Tool/IDEPlugin, All]</sub>
+- [Cursor](https://cursor.sh/) <sub>[IDE/Tool, All]</sub>
+- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) <sub>[Tool/IDEPlugin, All]</sub>
+
+
+### 3. Data Augmentation & Synthetic Data Generation Tools
+
+- [Albumentations](https://albumentations.ai/) <sub>[Library, Intermediate/Advanced]</sub>
+- [NVIDIA Omniverse Replicator](https://developer.nvidia.com/omniverse/replicator) <sub>[SDK/Platform, Advanced]</sub>
+- [Snorkel AI](https://snorkel.ai/) <sub>[Platform/Framework, Advanced]</sub>
+- [Gretel.ai](https://gretel.ai/) <sub>[Platform/Tool, Intermediate/Advanced]</sub>
+
+### 4. Model Optimization & Compression Toolkits
+
+[Coming Soon]
+
+### 5. Vector Databases & Semantic Search
+
+- [FAISS](https://github.com/facebookresearch/faiss) <sub>[Library, Advanced]</sub>
+- [ScaNN](https://github.com/google-research/google-research/tree/master/scann) <sub>[Library, Advanced]</sub>
+- [Pinecone](https://www.pinecone.io/) <sub>[Platform/Service, Intermediate/Advanced]</sub>
+- [Weaviate](https://weaviate.io/) <sub>[Database/Tool, Intermediate/Advanced]</sub>
+- [Milvus](https://milvus.io/) <sub>[Database/Tool, Intermediate/Advanced]</sub>
+- [ChromaDB](https://www.trychroma.com/) <sub>[Database/Tool, Intermediate]</sub>
+
+### 6. Advanced Experiment Management & Orchestration
+
+- [Kubeflow](https://www.kubeflow.org/) <sub>[Platform/Framework, Advanced]</sub>
+- [Pachyderm](https://www.pachyderm.com/) <sub>[Platform/Tool, Advanced]</sub>
 
 ---
 
