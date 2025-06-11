@@ -214,36 +214,18 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 #### Core Concepts \& Architectures
 
-- [Artificial Intelligence: A Modern Approach (Russell \& Norvig) – Agent Chapters](https://aima.cs.berkeley.edu/) <sub>[Book, Intermediate/Advanced]</sub>
-- [Agents and Multi-Agent Systems: Foundations, Theory, and Applications by Gerhard Weiss](https://www.springer.com/gp/book/9783662448744) <sub>[Book, Advanced]</sub>
-- [MIT 6.034 Artificial Intelligence – Agents and Planning](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/) <sub>[Course, Intermediate]</sub>
-
-
-#### Planning \& Reasoning
-
-- [Planning in Artificial Intelligence by Ghallab, Nau, Traverso](https://mitpress.mit.edu/9780262042871/planning-in-artificial-intelligence/) <sub>[Book, Advanced]</sub>
-- [Stanford CS221: Artificial Intelligence – Planning and Decision Making](https://web.stanford.edu/class/cs221/) <sub>[Course, Advanced]</sub>
-- [OpenAI’s Research on Agentic AI](https://openai.com/research) <sub>[Research Blog, Advanced]</sub>
+[Coming Soon]
 
 
 #### Multi-Agent Systems
 
-- [Multiagent Systems: Algorithmic, Game-Theoretic, and Logical Foundations by Shoham \& Leyton-Brown](https://www.masfoundations.org/) <sub>[Book, Advanced]</sub>
-- [Multi-Agent Reinforcement Learning: A Survey (Paper)](https://arxiv.org/abs/1812.11794) <sub>[Survey Paper, Advanced]</sub>
-- [OpenAI Multi-Agent Research](https://openai.com/research/multi-agent) <sub>[Research Blog, Advanced]</sub>
+[Coming Soon]
 
 
 #### Practical Tools \& Libraries
 
-- [PettingZoo: Multi-Agent Reinforcement Learning Environments](https://www.pettingzoo.ml/) <sub>[Library, Intermediate/Advanced]</sub>
-- [Ray RLlib: Scalable Reinforcement Learning](https://docs.ray.io/en/latest/rllib/index.html) <sub>[Library, Advanced]</sub>
+[Coming Soon]
 
-
-#### Further Reading \& Community
-
-- [AAMAS: International Conference on Autonomous Agents and Multiagent Systems](https://aamas2024.conference.auckland.ac.nz/) <sub>[Conference, Advanced]</sub>
-- [Agentic AI Community on Reddit](https://www.reddit.com/r/ArtificialInteligence/) <sub>[Community, All Levels]</sub>
-- [Agentic AI Discord (search for active communities)](https://discord.com/invite/artificialintelligence) <sub>[Community, All Levels]</sub>
 
 **8. Multimodal AI**
 *AI models and systems that process and reason over multiple data types (text, image, audio, video).*
@@ -252,12 +234,6 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [Multimodal Transformers](https://arxiv.org/abs/2107.07502)
 - [Stanford CS330: Multi-Modal Machine Learning](https://cs330.stanford.edu/)
 
-**9. Causal Inference \& Causal ML**
-*Learning and reasoning about cause-effect relationships from data.*
-
-- [The Book of Why by Judea Pearl](https://www.basicbooks.com/titles/judea-pearl/the-book-of-why/9780465097616/)
-- [Elements of Causal Inference](https://mitpress.mit.edu/9780262037310/elements-of-causal-inference/)
-- [DoWhy Library](https://microsoft.github.io/dowhy/)
 
 [⬆️ Back to Table of Contents](#table-of-contents)
 
