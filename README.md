@@ -21,7 +21,6 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [AI Community & Professional Resources](#ai-community--professional-resources-)
 - [AI/ML Financial Operations (FinOps)](#aiml-financial-operations-finops-)
 
----
 
 
 ## 🧠 AI & Machine Learning Foundations 
@@ -67,8 +66,6 @@ A meticulously curated and continuously updated list of resources for mastering 
 [Coming Soon]
 
 
----
-
 
 ## 🚀 Advanced AI Domains & Architectures 
 
@@ -109,7 +106,6 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 [Coming Soon]
 
----
 
 
 ## ⚙️ AI/ML System Design & MLOps 
@@ -168,15 +164,13 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 [Coming Soon]
 
----
+
 
 ## 🏭 AI & ML Applications Across Industries 
 
 [Coming Soon]
 
 
-
----
 
 ## 🛠️ AI/ML Tools, Frameworks & Libraries 
 
@@ -217,7 +211,6 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [Kubeflow](https://www.kubeflow.org/) <sub>[Platform/Framework, Advanced]</sub>
 - [Pachyderm](https://www.pachyderm.com/) <sub>[Platform/Tool, Advanced]</sub>
 
----
 
 
 ## 🛡️ AI/ML Cybersecurity & Ethics
@@ -239,21 +232,17 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [Stanford AI Index](https://aiindex.stanford.edu/)
 
 
- ---
 
 ## 💰 AI/ML Financial Operations (FinOps) 
 
 [Coming Soon]
 
----
 
 
 ## 💼 AI Learning Paths & Career Development 
 
 [Coming Soon]
 
-
----
 
 
 ## 🤝 AI Community & Professional Resources 
@@ -339,7 +328,6 @@ A meticulously curated and continuously updated list of resources for mastering 
 - Nature Machine Intelligence <sub>[Journal, Advanced]</sub>
 - AI Magazine <sub>[Journal, Advanced]</sub>
 
----
 
 [⬆️ Back to Table of Contents](#table-of-contents)
 
