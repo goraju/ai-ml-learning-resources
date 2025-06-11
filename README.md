@@ -295,9 +295,7 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [dbt Documentation](https://docs.getdbt.com/) <sub>[ToolDocumentation, Intermediate]</sub>
 
 **Feature Stores & Feature Engineering at Scale:**
-- [What is a Feature Store? by Tecton](https://www.tecton.ai/blog/what-is-a-feature-store/) <sub>[Blog Post, Intermediate]</sub>
 - [Feast Documentation](https://docs.feast.dev/) <sub>[ToolDocumentation, Advanced]</sub>
-- [Building Machine Learning Powered Applications](link_to_book_review_or_site) <sub>[Book, Intermediate]</sub>
 
 ### 5. AI/ML in the Cloud (Platforms & Articles)
 *Leveraging cloud platforms for developing, deploying, and scaling AI/ML solutions.*
@@ -308,36 +306,15 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [Microsoft Azure Machine Learning Documentation](https://docs.microsoft.com/en-us/azure/machine-learning/) <sub>[Documentation, Intermediate/Advanced]</sub>
 - [Databricks Machine Learning Guide](https://docs.databricks.com/machine-learning/index.html) <sub>[Documentation, Intermediate/Advanced]</sub>
 
-**AI in Cloud Articles & Best Practices:**
-- [Serverless Machine Learning with AWS Lambda](https://aws.amazon.com/blogs/machine-learning/serverless-machine-learning-with-aws-lambda/) <sub>[Article/Blog Post, Intermediate/Advanced]</sub>
-- [Best practices for MLOps on Google Cloud](https://cloud.google.com/architecture/mlops-best-practices) <sub>[Article, Intermediate/Advanced]</sub>
-- [Cost Management for Machine Learning on Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/manage/cost-management/machine-learning) <sub>[Article, Intermediate]</sub>
 
-### 6. DataOps for AI/ML
-*Best practices and tools for managing data pipelines, quality, and governance in AI/ML projects.*
-
-- [DataOps Manifesto](https://www.dataopsmanifesto.org/)
-- [DataOps for Machine Learning](https://neptune.ai/blog/dataops-for-machine-learning)
-
-### 7. Model Context Protocol (MCP)
+### 6. Model Context Protocol (MCP)
 
 *The Model Context Protocol (MCP) is an open standard for transmitting context, safety, and usage metadata alongside AI model outputs. MCP enables safer, more transparent, and interoperable AI deployments by standardizing how models communicate critical information to downstream applications and users.*
 
 #### Core Resources
-- [Model Context Protocol (MCP) Specification](https://modelcontext.org/protocol/) <sub>[Official Spec, Intermediate]</sub>
-- [Introducing the Model Context Protocol (OpenAI Blog)](https://openai.com/blog/model-context-protocol) <sub>[Blog, Intermediate]</sub>
-- [MCP on GitHub](https://github.com/modelcontext/protocol) <sub>[Repository, Intermediate]</sub>
-- [OpenAI DevDay: Model Context Protocol Demo](https://www.youtube.com/watch?v=VnU3q5C4t4Q) <sub>[Video, Beginner/Intermediate]</sub>
+- [Model Context Protocol (MCP) Specification](https://modelcontextprotocol.io/introduction) <sub>[Official Spec, Intermediate]</sub>
 
-#### Adoption & Ecosystem
-- [OpenAI Platform Documentation – Model Context Protocol](https://platform.openai.com/docs/guides/model-context-protocol) <sub>[Docs, Intermediate]</sub>
-- [MCP Integration with LangChain](https://python.langchain.com/docs/integrations/mcp) <sub>[Docs, Advanced]</sub>
-- [MCP and Responsible AI](https://www.microsoft.com/en-us/research/project/model-context-protocol/) <sub>[Research, Intermediate]</sub>
-
-#### Community & Further Reading
-- [Model Context Protocol Community Discussions](https://github.com/modelcontext/protocol/discussions) <sub>[Community, All Levels]</sub>
-- [Why Context Protocols Matter for LLMOps (Arize AI)](https://arize.com/blog/model-context-protocol-llmops/) <sub>[Blog, Intermediate]</sub>
-
+[Coming Soon]
 
 [⬆️ Back to Table of Contents](#table-of-contents)
 
