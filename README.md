@@ -31,7 +31,7 @@ A meticulously curated and continuously updated list of resources for mastering 
 ### 1. Core Artificial Intelligence Concepts
 *Broad concepts, history, search algorithms, knowledge representation, and philosophical underpinnings of AI.*
 
-- [Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig](link_to_book) <sub>[Book, Beginner/Intermediate]</sub>
+- [Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig](https://people.engr.tamu.edu/guni/csce625/slides/AI.pdf) <sub>[Book, Beginner/Intermediate]</sub>
 - [MIT 6.034 Artificial Intelligence by Patrick Winston](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/) <sub>[Course, Intermediate]</sub>
 
 ### 2. Core Machine Learning Principles
@@ -39,11 +39,10 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 **Supervised Learning:**
 - [Machine Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction) <sub>[Course, Beginner]</sub>
-- [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](link_to_book) <sub>[Book, Beginner/Intermediate]</sub>
+- [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) <sub>[Book, Beginner/Intermediate]</sub>
 
 **Unsupervised Learning:**
-- [Stanford CS229 - Unsupervised Learning Notes](http://cs229.stanford.edu/notes2019fall/cs229-notes-unsupervised.pdf) <sub>[LectureNotes, Advanced]</sub>
-- [Python Data Science Handbook - Unsupervised Learning](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html) <sub>[Book, Intermediate]</sub>
+- [coming soon]
 
 ### 3. Core Deep Learning Fundamentals
 *Neural networks, activation functions, backpropagation, optimizers, and foundational architectures.*
@@ -51,10 +50,10 @@ A meticulously curated and continuously updated list of resources for mastering 
 **Introduction to Neural Networks:**
 - [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning) <sub>[Course, Intermediate]</sub>
 - [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/) <sub>[Book, Beginner/Intermediate]</sub>
+- [Neural Networks by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)<sub>[Videos,Beginner/Intermediate]</sub>
 
 **Advanced Topics:**
 - [Deep Learning Book by Goodfellow, Bengio, and Courville](https://www.deeplearningbook.org/) <sub>[Book, Advanced]</sub>
-- [Stanford CS231n: CNNs for Visual Recognition](http://cs231n.stanford.edu/) <sub>[Course, Advanced]</sub>
 
 ### 4. Essential Mathematics for AI/ML
 *Crucial mathematical foundations: linear algebra, calculus, probability, statistics, and optimization.*
@@ -77,7 +76,7 @@ A meticulously curated and continuously updated list of resources for mastering 
 **Data Manipulation & Analysis:**
 - [NumPy Official Documentation & Tutorials](https://numpy.org/doc/stable/user/index.html) <sub>[Documentation, Beginner/Intermediate]</sub>
 - [Pandas Official Documentation](https://pandas.pydata.org/docs/user_guide/index.html) <sub>[Documentation, Beginner/Intermediate]</sub>
-- [Modern Pandas by Tom Augspurger](https://tomaugspurger.github.io/modern-pandas.html) <sub>[Tutorial Series, Intermediate]</sub>
+- [Modern Pandas by Tom Augspurger](https://tomaugspurger.net/posts/modern-1-intro/) <sub>[Tutorial Series, Intermediate]</sub>
 
 **Data Visualization:**
 - [Matplotlib Official Tutorials](https://matplotlib.org/stable/tutorials/index.html) <sub>[Documentation, Beginner/Intermediate]</sub>
@@ -85,7 +84,6 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 **Machine Learning Libraries:**
 - [Scikit-learn Official User Guide](https://scikit-learn.org/stable/user_guide.html) <sub>[Documentation, Intermediate]</sub>
-- [Scikit-learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html) <sub>[Tutorial, Beginner/Intermediate]</sub>
 
 **Deep Learning Frameworks:**
 - [TensorFlow Core Tutorials](https://www.tensorflow.org/tutorials) <sub>[Documentation, Intermediate]</sub>
@@ -94,16 +92,14 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [PyTorch Lightning Documentation](https://pytorch-lightning.readthedocs.io/) <sub>[Documentation, Intermediate/Advanced]</sub>
 
 **NLP & Transformers:**
-- [Hugging Face Course](https://huggingface.co/course/chapter1/1) <sub>[Course, Intermediate/Advanced]</sub>
+- [Hugging Face LLM Course](https://huggingface.co/course/chapter1/1) <sub>[Course, Intermediate/Advanced]</sub>
 - [Transformers Documentation](https://huggingface.co/docs/transformers/index) <sub>[Documentation, Advanced]</sub>
 - [spaCy Course](https://course.spacy.io/) <sub>[Course, Intermediate]</sub>
 
-**6. Data Engineering \& Data Management for AI/ML**
+### 6. Data Engineering \& Data Management for AI/ML
 *Preparing, cleaning, storing, and managing data pipelines and datasets for AI/ML workflows.*
 
-- Data preprocessing, feature engineering, and dataset versioning
-- Data lakes, warehouses, and data governance
-- Tools: [Apache Airflow](https://airflow.apache.org/), [DVC](https://dvc.org/), [Great Expectations](https://greatexpectations.io/)
+[Coming Soon]
 
 
 [⬆️ Back to Table of Contents](#table-of-contents)
@@ -117,55 +113,43 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 - [LangChain](https://www.langchain.com/) <sub>[Framework/Library, Intermediate/Advanced]</sub>
 - [LlamaIndex](https://www.llamaindex.ai/) <sub>[Framework/Library, Intermediate/Advanced]</sub>
-- [Haystack by deepset](https://haystack.deepset.ai/) <sub>[Framework/Library, Intermediate/Advanced]</sub>
-- [Semantic Kernel by Microsoft](https://learn.microsoft.com/en-us/semantic-kernel/overview/) <sub>[SDK/Library, Intermediate/Advanced]</sub>
-- [Vercel AI SDK](https://sdk.vercel.ai/) <sub>[SDK/Library, Intermediate/Advanced]</sub>
 
 ### 2. AI-Powered Developer Productivity Tools
 *Tools that leverage AI to assist software developers in coding, debugging, testing, and other development tasks.*
 
 - [GitHub Copilot](https://github.com/features/copilot) <sub>[Tool/IDEPlugin, All]</sub>
 - [Cursor](https://cursor.sh/) <sub>[IDE/Tool, All]</sub>
-- [Tabnine](https://www.tabnine.com/) <sub>[Tool/IDEPlugin, All]</sub>
 - [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) <sub>[Tool/IDEPlugin, All]</sub>
-- [Sourcegraph Cody](https://sourcegraph.com/cody) <sub>[Tool/Platform, Intermediate/Advanced]</sub>
+
 
 ### 3. Data Augmentation & Synthetic Data Generation Tools
 *Tools and libraries for increasing dataset size and diversity through augmentation techniques.*
 
 - [Albumentations](https://albumentations.ai/) <sub>[Library, Intermediate/Advanced]</sub>
 - [NVIDIA Omniverse Replicator](https://developer.nvidia.com/omniverse/replicator) <sub>[SDK/Platform, Advanced]</sub>
-- [Unity Perception Package](https://unity.com/products/perception) <sub>[Tool/EnginePlugin, Intermediate/Advanced]</sub>
 - [Snorkel AI](https://snorkel.ai/) <sub>[Platform/Framework, Advanced]</sub>
 - [Gretel.ai](https://gretel.ai/) <sub>[Platform/Tool, Intermediate/Advanced]</sub>
 
 ### 4. Model Optimization & Compression Toolkits
 *Tools for reducing model size, inference latency, and computational cost while preserving accuracy.*
 
-- [NVIDIA TensorRT](https://developer.nvidia.com/tensorrt) <sub>[SDK/Tool, Advanced]</sub>
-- [Intel OpenVINO Toolkit](https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html) <sub>[SDK/Tool, Advanced]</sub>
-- [ONNX Runtime](https://onnxruntime.ai/) <sub>[Runtime/Library, Intermediate/Advanced]</sub>
-- [TensorFlow Lite Model Optimization Toolkit](https://www.tensorflow.org/lite/performance/model_optimization) <sub>[Toolkit/Library, Intermediate/Advanced]</sub>
-- [PyTorch Mobile](https://pytorch.org/mobile/home/) <sub>[Library/Framework, Intermediate/Advanced]</sub>
-- [Optuna](https://optuna.org/) <sub>[Library, Intermediate/Advanced]</sub>
+[Coming Soon]
 
 ### 5. Vector Databases & Semantic Search
 *Databases and libraries specialized in storing, indexing, and querying high-dimensional vector embeddings.*
 
+- [FAISS](https://github.com/facebookresearch/faiss) <sub>[Library, Advanced]</sub>
+- [ScaNN](https://github.com/google-research/google-research/tree/master/scann) <sub>[Library, Advanced]</sub>
 - [Pinecone](https://www.pinecone.io/) <sub>[Platform/Service, Intermediate/Advanced]</sub>
 - [Weaviate](https://weaviate.io/) <sub>[Database/Tool, Intermediate/Advanced]</sub>
 - [Milvus](https://milvus.io/) <sub>[Database/Tool, Intermediate/Advanced]</sub>
-- [FAISS](https://github.com/facebookresearch/faiss) <sub>[Library, Advanced]</sub>
-- [ScaNN](https://github.com/google-research/google-research/tree/master/scann) <sub>[Library, Advanced]</sub>
 - [ChromaDB](https://www.trychroma.com/) <sub>[Database/Tool, Intermediate]</sub>
 
 ### 6. Advanced Experiment Management & Orchestration
 *Tools for managing complex ML workflows, reproducibility, and collaboration at scale.*
 
-- [ClearML](https://clear.ml/) <sub>[Platform/Tool, Intermediate/Advanced]</sub>
-- [Pachyderm](https://www.pachyderm.com/) <sub>[Platform/Tool, Advanced]</sub>
 - [Kubeflow](https://www.kubeflow.org/) <sub>[Platform/Framework, Advanced]</sub>
-- [Flyte](https://flyte.org/) <sub>[Platform/Tool, Advanced]</sub>
+- [Pachyderm](https://www.pachyderm.com/) <sub>[Platform/Tool, Advanced]</sub>
 
 [⬆️ Back to Table of Contents](#table-of-contents)
 
