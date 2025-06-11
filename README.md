@@ -167,60 +167,46 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [NLP Specialization by deeplearning.ai](https://www.coursera.org/specializations/natural-language-processing) <sub>[Course, Intermediate]</sub>
 
 **Modern NLP & Transformers:**
-- [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) <sub>[Course, Intermediate]</sub>
-- [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers/index) <sub>[Documentation, Advanced]</sub>
+- [Hugging Face LLM Course](https://huggingface.co/learn/nlp-course/chapter1/1) <sub>[Course, Intermediate]</sub>
 - [The Illustrated Transformer by Jay Alammar](https://jalammar.github.io/illustrated-transformer/) <sub>[Article, Intermediate]</sub>
 
 ### 2. Large Language Models (LLMs)
 *Understanding, implementing, and working with state-of-the-art language models, including prompt engineering and model fine-tuning.*
 
 **Core Concepts:**
-- [LLM University](https://llm.university/) <sub>[Course, Intermediate]</sub>
-- [Stanford CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/) <sub>[Course, Advanced]</sub>
 - [Andrej Karpathy's Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) <sub>[Video Series, Advanced]</sub>
+- [Stanford CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/) <sub>[Course, Advanced]</sub>
 
 **Prompt Engineering:**
 - [Prompt Engineering Guide](https://www.promptingguide.ai/) <sub>[Guide, Intermediate]</sub>
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook) <sub>[Documentation, Intermediate]</sub>
-- [Learn Prompting](https://learnprompting.org/) <sub>[Course, Beginner/Intermediate]</sub>
+- [Prompt Engineering Guide by Google](https://www.kaggle.com/whitepaper-prompt-engineering)<sub>[Book, Beginner]</sub>
 
 ### 3. Computer Vision (CV)
 *Fundamental concepts and practical implementations in image processing, object detection, and visual understanding.*
 
 **Fundamentals:**
-- [PyImageSearch University](https://www.pyimagesearch.com/) <sub>[Course, Intermediate/Advanced]</sub>
-- [Stanford CS231n: CNN for Visual Recognition](http://cs231n.stanford.edu/) <sub>[Course, Advanced]</sub>
-- [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/) <sub>[Book, Advanced]</sub>
+
+[Coming Soon]
 
 **Modern Architectures & Applications:**
-- [fastai Practical Deep Learning for Coders](https://course.fast.ai/) <sub>[Course, Intermediate]</sub>
 - [TorchVision Tutorial](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html) <sub>[Tutorial, Intermediate]</sub>
 - [OpenCV Python Tutorials](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html) <sub>[Documentation, Beginner/Intermediate]</sub>
+- [fastai Practical Deep Learning for Coders](https://course.fast.ai/) <sub>[Course, Intermediate]</sub>
+
 
 ### 4. Reinforcement Learning (RL)
 *Theory and practice of training agents through interaction with environments, from basic concepts to advanced algorithms.*
 
 **Fundamentals:**
-- [Reinforcement Learning by Sutton and Barto](http://incompleteideas.net/book/the-book-2nd.html) <sub>[Book, Advanced]</sub>
 - [Deep Reinforcement Learning Course by Hugging Face](https://huggingface.co/learn/deep-rl-course/unit0/introduction) <sub>[Course, Intermediate/Advanced]</sub>
 - [Spinning Up in Deep RL by OpenAI](https://spinningup.openai.com/en/latest/) <sub>[Course, Advanced]</sub>
+- [Reinforcement Learning by Sutton and Barto](http://incompleteideas.net/book/the-book-2nd.html) <sub>[Book, Advanced]</sub>
 
 **Advanced Topics:**
-- [Stanford CS234: Reinforcement Learning](https://web.stanford.edu/class/cs234/) <sub>[Course, Advanced]</sub>
+- [Stanford CS234: Reinforcement Learning](https://www.youtube.com/watch?v=WsvFL-LjA6U&list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) <sub>[Course, Advanced]</sub>
 - [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) <sub>[Video Series, Advanced]</sub>
 - [RL Theory Book by Csaba Szepesvári](https://rltheory.github.io/) <sub>[Book, Advanced]</sub>
-
-### 5. Graph Neural Networks (GNNs)
-*Understanding and implementing neural networks that operate on graph-structured data.*
-
-**Core Concepts:**
-- [Stanford CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) <sub>[Course, Advanced]</sub>
-- [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) <sub>[Book, Advanced]</sub>
-- [PyTorch Geometric Documentation](https://pytorch-geometric.readthedocs.io/) <sub>[Documentation, Intermediate/Advanced]</sub>
-
-**Applications & Implementations:**
-- [Deep Graph Library (DGL) Tutorials](https://docs.dgl.ai/tutorials/index.html) <sub>[Tutorial, Intermediate]</sub>
-- [Graph Neural Networks in Practice](https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a) <sub>[Article Series, Intermediate]</sub>
 
 ### 6. Agentic AI
 
