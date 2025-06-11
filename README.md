@@ -32,37 +32,21 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 - [Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig](https://people.engr.tamu.edu/guni/csce625/slides/AI.pdf) <sub>[Book, Beginner/Intermediate]</sub>
 - [MIT 6.034 Artificial Intelligence by Patrick Winston](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/) <sub>[Course, Intermediate]</sub>
-
-### 2. Core Machine Learning Principles
-
-**Supervised Learning:**
 - [Machine Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction) <sub>[Course, Beginner]</sub>
 - [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) <sub>[Book, Beginner/Intermediate]</sub>
-
-**Unsupervised Learning:**
-- [coming soon]
-
-### 3. Core Deep Learning Fundamentals
-
-**Introduction to Neural Networks:**
 - [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning) <sub>[Course, Intermediate]</sub>
 - [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/) <sub>[Book, Beginner/Intermediate]</sub>
 - [Neural Networks by 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)<sub>[Videos,Beginner/Intermediate]</sub>
-
-**Advanced Topics:**
 - [Deep Learning Book by Goodfellow, Bengio, and Courville](https://www.deeplearningbook.org/) <sub>[Book, Advanced]</sub>
 
-### 4. Essential Mathematics for AI/ML
+### 2. Essential Mathematics for AI/ML
 
-**Linear Algebra:**
 - [Mathematics for Machine Learning by Deisenroth, Faisal, Ong](https://mml-book.github.io/) <sub>[Book, Intermediate]</sub>
 - [3Blue1Brown - Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) <sub>[Video Series, Beginner]</sub>
-
-**Probability & Statistics:**
 - [Statistics and Probability by Khan Academy](https://www.khanacademy.org/math/statistics-probability) <sub>[Course, Beginner/Intermediate]</sub>
 - [Seeing Theory - Visual Introduction to Probability](https://seeing-theory.brown.edu/) <sub>[Interactive, Beginner]</sub>
 
-### 5. Python & Key Libraries for AI/ML
+### 3. Python & Key Libraries for AI/ML
 
 **Python Fundamentals:**
 - [Python for Everybody Specialization by University of Michigan](https://www.coursera.org/specializations/python) <sub>[Course, Beginner]</sub>
