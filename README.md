@@ -68,8 +68,6 @@ A meticulously curated and continuously updated list of resources for mastering 
 [Coming Soon]
 
 
-[⬆️ Back to Table of Contents](#table-of-contents)
-
 ---
 
 ## 🛠️ AI/ML Tools, Frameworks & Libraries 
@@ -110,8 +108,6 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 - [Kubeflow](https://www.kubeflow.org/) <sub>[Platform/Framework, Advanced]</sub>
 - [Pachyderm](https://www.pachyderm.com/) <sub>[Platform/Tool, Advanced]</sub>
-
-[⬆️ Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -154,9 +150,6 @@ A meticulously curated and continuously updated list of resources for mastering 
 ### 5. Agentic AI
 
 [Coming Soon]
-
-
-[⬆️ Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -217,7 +210,6 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 [Coming Soon]
 
-[⬆️ Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -226,8 +218,6 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 [Coming Soon]
 
-
-[⬆️ Back to Table of Contents](#table-of-contents)
 
 ---
 
@@ -251,9 +241,6 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [Stanford AI Index](https://aiindex.stanford.edu/)
 
 
-[⬆️ Back to Table of Contents](#table-of-contents)
-
-
  ---
 
 ## 💰 AI/ML Financial Operations (FinOps) 
@@ -275,8 +262,6 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [Cost-Benefit Analysis Templates](link_to_templates) <sub>[Template, Intermediate]</sub>
 - [AI Cost Optimization Success Stories](link_to_cases) <sub>[Case Studies, Intermediate]</sub>
 
-[⬆️ Back to Table of Contents](#table-of-contents)
-
 ---
 
 
@@ -290,16 +275,12 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [ArXiv (cs.AI, cs.LG, cs.CL, cs.CV)](https://arxiv.org/) <sub>[Repository, Intermediate/Advanced]</sub>
 - [Google Scholar](https://scholar.google.com/) <sub>[SearchEngine, Intermediate]</sub>
 
-[⬆️ Back to Table of Contents](#table-of-contents)
-
 ---
 
 
 ## 💼 AI Learning Paths & Career Development 
 
 [Coming Soon]
-
-[⬆️ Back to Table of Contents](#table-of-contents)  
 
 
 ---
@@ -388,10 +369,9 @@ A meticulously curated and continuously updated list of resources for mastering 
 - Nature Machine Intelligence <sub>[Journal, Advanced]</sub>
 - AI Magazine <sub>[Journal, Advanced]</sub>
 
-[⬆️ Back to Table of Contents](#table-of-contents)
-
 ---
 
+[⬆️ Back to Table of Contents](#table-of-contents)
 
 ## Contributing
 
