@@ -213,7 +213,7 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 
 
-## 🛡️ AI/ML Cybersecurity & Ethics
+## 🛡️ AI/ML Cybersecurity
 
 #### AI Security & Privacy
 - [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) <sub>[Framework/Standard, Advanced]</sub>
@@ -224,13 +224,6 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [LLM Security Best Practices by NCC Group](https://research.nccgroup.com/2023/05/16/llm-security-best-practices/) <sub>[Blog Post, Advanced]</sub>
 - [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security?tab=readme-ov-file) <sub>[GitHubRepo, Advanced]</sub>
 - [EU AI Act Overview](https://artificialintelligenceact.eu/)
-
-#### Ethics in AI
-
-- [Google AI - Responsible AI Practices](https://ai.google/responsibilities/responsible-ai-practices/) <sub>[Website/Report, Intermediate]</sub>
-- [AI Now Institute Reports](https://ainowinstitute.org)
-- [Stanford AI Index](https://aiindex.stanford.edu/)
-
 
 
 ## 💰 AI/ML Financial Operations (FinOps) 
