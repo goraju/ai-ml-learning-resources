@@ -41,12 +41,12 @@ Thank you for considering a contribution! Your help keeps this repository valuab
 Please use the following template for new entries:
 
 ```markdown
-- [Resource Name](link_to_resource) - A brief description of the resource and its key takeaways. (Type: Book, Course, Article, Video, Paper, Tool, Blog Post, Report, Guide) (Level: Beginner, Intermediate, Advanced) (Tags: #tag1, #tag2, ...)
+- [Resource Name](link_to_resource)(Type: Book, Course, Article, Video, Paper, Tool, Blog Post, Report, Guide, Level: Beginner, Intermediate, Advanced)
 ```
 
 **Example:**
 ```markdown
-- [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning) - Comprehensive course on deep learning. (Type: Course) (Level: Intermediate) (Tags: #DeepLearning, #NeuralNetworks)
+- [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)<sub>(Course, Intermediate)</sub>
 ```
 
 **Tips:**
@@ -60,7 +60,7 @@ Please use the following template for new entries:
 
 - **Section Placement:** Add your resource to the most relevant section. Unsure? Ask in your PR or open an issue.
 - **No Duplicates:** Check if a similar resource already exists.
-- **Quality:** No spam, self-promotion, or irrelevant content.
+- **Quality:** No spam, or irrelevant content.
 - **Tone:** Be respectful and open to feedback.
 
 ---
