@@ -23,7 +23,7 @@ A meticulously curated and continuously updated list of resources for mastering 
 
 
 
-## 🧠 AI & Machine Learning Foundations 
+## 📖 AI & Machine Learning Foundations 
 
 #### Core Artificial Intelligence Concepts
 
@@ -254,48 +254,6 @@ A meticulously curated and continuously updated list of resources for mastering 
 - [CMU Machine Learning Blog](https://blog.ml.cmu.edu/) <sub>[Blog, Advanced]</sub>
 - [Chip Huyen's Blog](https://huyenchip.com/blog/) <sub>[Blog, Intermediate/Advanced]</sub>
 - [Lilian Weng's Blog (Lil'Log)](https://lilianweng.github.io/lil-log/) <sub>[Blog, Advanced]</sub>
-
-#### Essential Tools, Frameworks & Platforms
-
-- [Weights & Biases](https://wandb.ai/site) <sub>[Platform/Tool, Intermediate]</sub>
-- [Neptune.ai](https://neptune.ai/) <sub>[Platform/Tool, Intermediate]</sub>
-- [Label Studio](https://labelstud.io/) <sub>[Tool, Intermediate]</sub>
-- [Jupyter Notebooks/Lab](https://jupyter.org/) <sub>[Tool, Beginner/Intermediate]</sub>
-- [Docker](https://www.docker.com/) <sub>[Tool, Intermediate]</sub>
-- [Kubernetes (K8s)](https://kubernetes.io/) <sub>[Platform, Advanced]</sub>
-
-#### Subreddits
-- r/MachineLearning, r/deeplearning, r/LanguageTechnology, r/LocalLLaMA, r/artificialintelligence, r/datascience <sub>[Community, All Levels]</sub>
-
-#### Newsletters
-- Import AI by Jack Clark <sub>[Newsletter, Advanced]</sub>
-- The Batch by DeepLearning.AI <sub>[Newsletter, Intermediate]</sub>
-- Last Week in AI <sub>[Newsletter, Intermediate]</sub>
-- ChinAI Newsletter <sub>[Newsletter, Advanced]</sub>
-- Data Science Weekly <sub>[Newsletter, Intermediate]</sub>
-- Exponential View <sub>[Newsletter, Intermediate/Advanced]</sub>
-
-#### Online Communities
-- [Kaggle Discussions](https://www.kaggle.com/discussions) <sub>[Forum, All Levels]</sub>
-- [Stack Overflow](https://stackoverflow.com/) <sub>[Q&A, All Levels]</sub>
-
-#### Conferences
-- NeurIPS <sub>[Conference, Advanced]</sub>
-- ICML <sub>[Conference, Advanced]</sub>
-- ICLR <sub>[Conference, Advanced]</sub>
-- CVPR <sub>[Conference, Advanced]</sub>
-- ACL/EMNLP/NAACL <sub>[Conference, Advanced]</sub>
-- KDD <sub>[Conference, Advanced]</sub>
-- AAAI <sub>[Conference, Advanced]</sub>
-- AISTATS <sub>[Conference, Advanced]</sub>
-- CoRL <sub>[Conference, Advanced]</sub>
-
-#### Journals
-- JMLR <sub>[Journal, Advanced]</sub>
-- TACL <sub>[Journal, Advanced]</sub>
-- TPAMI <sub>[Journal, Advanced]</sub>
-- Nature Machine Intelligence <sub>[Journal, Advanced]</sub>
-- AI Magazine <sub>[Journal, Advanced]</sub>
 
 
 [⬆️ Back to Table of Contents](#table-of-contents)
